@@ -47,7 +47,7 @@ Synpunkter, frågor och förbättringsförslag är välkomna.
 
 Du kan skapa ett **Issue** i detta repository för att lämna återkoppling. Issues passar särskilt bra för synpunkter som rör ett specifikt dokument, en oklarhet i metoden eller ett förslag på förändring som kan behöva följas upp.
 
-Du kan också kontakta ansvarig på Inera via e-post: [lägg in e-postadress].
+Du kan också kontakta ansvarig på Inera via e-post: amanda.sundberg@inera.se.
 
 ## Ansvar
 
