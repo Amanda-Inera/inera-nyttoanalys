@@ -10,8 +10,6 @@ Samlingsfilen är avsedd för enkel nedladdning och användning i AI-verktyg. Or
 
 # 1. Syftet med nyttoanalysen
 
-# 1. Syftet med nyttoanalysen
-
 ## Varför tydliggöra syftet med nyttoanalysen?
 
 Att tydliggöra syftet gör utgångspunkten för nyttoanalysen begriplig för både dig och andra. Börja därför med att reflektera över varför du vill göra analysen och vad resultatet ska användas till.
@@ -31,8 +29,6 @@ Du behöver inte känna till den slutliga användningen eller alla mottagare nä
 ---
 
 <!-- Artikel 2 av 72 | Källa: 1. Syfte/1.1 Bestäm och dokumentera syftet.md -->
-
-# 1.1 Bestäm och dokumentera syftet
 
 # 1.1 Bestäm och dokumentera syftet
 
@@ -62,8 +58,6 @@ Kontrollera att formuleringen beskriver nyttoanalysens användning eller den os�
 ---
 
 <!-- Artikel 3 av 72 | Källa: 1. Syfte/Hur förhåller sig nyttoanalysen till andra arbetssätt.md -->
-
-# Hur förhåller sig nyttoanalysen till andra arbetssätt?
 
 # Hur förhåller sig nyttoanalysen till andra arbetssätt?
 
@@ -113,8 +107,6 @@ Använd nyttoanalysen för att undersöka förändringens nyttor och kostnader. 
 
 # Vad krävs för att göra en nyttoanalys med stöd från assistenten?
 
-# Vad krävs för att göra en nyttoanalys med stöd från assistenten?
-
 ## Du kan börja utan en färdig plan
 
 Du behöver inte planera hela arbetet, samla in allt underlag eller sätta ihop en analysgrupp innan du börjar. Utgå från det du redan vet om förändringen. Assistenten leder dig genom nyttoanalysens steg och berättar efter hand vilken information som behövs.
@@ -157,8 +149,6 @@ Du behöver inte bestämma arbetets fullständiga omfattning från början. Bör
 
 # Varför göra en nyttoanalys?
 
-# Varför göra en nyttoanalys?
-
 ## Förstå förändringens samlade konsekvenser
 
 En nyttoanalys hjälper dig att undersöka vilka positiva och negativa konsekvenser en förändring kan få. När du beskriver både nyttor och kostnader ur relevanta perspektiv blir det lättare att se vilka värden förändringen kan skapa, vilka resurser den kräver och vilka avvägningar som behöver göras.
@@ -192,8 +182,6 @@ Nyttoanalysen hjälper dig att beskriva och bedöma dessa samband. Genomförande
 ---
 
 <!-- Artikel 6 av 72 | Källa: 1. Syfte/Översikt över nyttoanalysens sju steg.md -->
-
-# Översikt över nyttoanalysens sju steg
 
 # Översikt över nyttoanalysens sju steg
 
@@ -238,8 +226,6 @@ Gå då tillbaka till det steg där informationen hör hemma och uppdatera analy
 ---
 
 <!-- Artikel 7 av 72 | Källa: 2. Jämförelse/2. Jämförelsen mellan Alternativ A och Alternativ B.md -->
-
-# 2. Jämförelsen mellan Alternativ A och Alternativ B
 
 # 2. Jämförelsen mellan Alternativ A och Alternativ B
 
@@ -304,8 +290,6 @@ Om flera alternativ ska undersökas bör varje alternativ analyseras i en egen n
 
 # 2.1 Gör en översiktlig jämförelse
 
-# 2.1 Gör en översiktlig jämförelse
-
 ## Gör först två korta beskrivningar
 
 Gör alltid en översiktlig jämförelse mellan Alternativ A och Alternativ B innan ni bedömer om jämförelsen behöver fördjupas. Jämförelsen består av två separata beskrivningar i löpande text: en för Alternativ A och en för Alternativ B. Vanligtvis räcker en till tre meningar per alternativ.
@@ -349,8 +333,6 @@ En detaljerad teknikjämförelse ska erbjudas när förändringen omfattar nya e
 ---
 
 <!-- Artikel 9 av 72 | Källa: 2. Jämförelse/2.2 Gör en detaljerad beteendejämförelse.md -->
-
-# 2.2 Gör en detaljerad beteendejämförelse
 
 # 2.2 Gör en detaljerad beteendejämförelse
 
@@ -410,8 +392,6 @@ Beskriv faktiska handlingar och förhållanden. Lägg inte in värderingar eller
 ---
 
 <!-- Artikel 10 av 72 | Källa: 2. Jämförelse/2.3 Gör en detaljerad teknikjämförelse.md -->
-
-# 2.3 Gör en detaljerad teknikjämförelse
 
 # 2.3 Gör en detaljerad teknikjämförelse
 
@@ -475,8 +455,6 @@ Beskriv tekniska förhållanden och funktioner. Lägg inte in arbetssätt, värd
 
 # 3. Ramarna avgränsar analysen
 
-# 3. Ramarna avgränsar analysen
-
 ## Ange perspektiv, geografisk räckvidd och tidshorisont
 
 Ramarna anger för vem, var och över vilken tid nyttoanalysen görs. De består av:
@@ -508,8 +486,6 @@ Anta exempelvis inte att en lokal förändring automatiskt ska analyseras ur org
 ---
 
 <!-- Artikel 12 av 72 | Källa: 3. Ramar/3.1 Välj perspektiv.md -->
-
-# 3.1 Välj perspektiv
 
 # **3.1 Välj perspektiv**
 
@@ -563,8 +539,6 @@ I en större eller mer komplex analys kan du kort beskriva varför ett perspekti
 
 # 3.2 Dokumentera geografisk räckvidd
 
-# 3.2 Dokumentera geografisk räckvidd
-
 ## Dokumentera vilket område på kartan analysen omfattar
 
 Geografisk räckvidd anger vilket område på kartan analysen omfattar. Det kan exempelvis vara:
@@ -594,8 +568,6 @@ Geografisk räckvidd anger var på kartan nyttor och kostnader bedöms uppstå. 
 
 # 3.3 Välj tidshorisont
 
-# 3.3 Välj tidshorisont
-
 ## Välj 6, 15 eller 25 år
 
 Välj någon av metodens tre tidshorisonter: **6 år**, **15 år** eller **25 år**. Andra tidsperioder används inte i denna metod.
@@ -621,8 +593,6 @@ Du kan ändra tidshorisonten om analysen utvecklas eller om du senare väljer en
 ---
 
 <!-- Artikel 15 av 72 | Källa: 4. Nyttor och kostnader/4.1 Välj arbetssätt för att samla in underlag.md -->
-
-# 4.1 Välj arbetssätt för att samla in underlag
 
 # 4.1 Välj arbetssätt för att samla in underlag
 
@@ -672,8 +642,6 @@ Bestäm därefter nästa aktivitet. Det kan vara att planera en workshop, förbe
 
 # 4.2 Samla in underlag och formulera effekter
 
-# 4.2 Samla in underlag och formulera effekter
-
 ## Samla ett underlag innan du analyserar nyttor och kostnader
 
 Använd workshop, intervjuer, research eller dialog med assistenten för att samla in underlag om vilka följder förändringen kan få. Metoderna kan användas var för sig eller kombineras.
@@ -711,8 +679,6 @@ När insamlingen är klar ska du ha ett arbetsunderlag med möjliga positiva och
 ---
 
 <!-- Artikel 17 av 72 | Källa: 4. Nyttor och kostnader/4.2.1 Samla in underlag genom workshop.md -->
-
-# 4.2.1 Samla in underlag genom workshop
 
 # 4.2.1 Samla in underlag genom workshop
 
@@ -755,8 +721,6 @@ Avsluta workshopen med att berätta vad som händer med materialet och när doku
 ---
 
 <!-- Artikel 18 av 72 | Källa: 4. Nyttor och kostnader/4.2.2 Samla in underlag genom intervjuer.md -->
-
-# 4.2.2 Samla in underlag genom intervjuer
 
 # 4.2.2 Samla in underlag genom intervjuer
 
@@ -817,8 +781,6 @@ För sedan samman underlaget från intervjuerna. Det får gärna synas att flera
 
 # 4.2.3 Samla in underlag genom research
 
-# 4.2.3 Samla in underlag genom research
-
 ## Välj och dela relevant källmaterial
 
 Använd research när det finns material som kan beskriva Alternativ A, Alternativ B eller möjliga effekter. Du ansvarar för att hitta och välja vilka källor som ska ingå. Assistenten kan hjälpa dig att avgränsa materialet, föreslå en anteckningsmall och bearbeta dokument, utdrag eller sammanfattningar som du delar.
@@ -861,8 +823,6 @@ När listan är tillräckligt tydlig och bred lämnar du den till den fortsatta 
 
 # 4.2.4 Samla in underlag i dialog med assistenten
 
-# 4.2.4 Samla in underlag i dialog med assistenten
-
 ## Använd dialog för att ta fram ett första underlag
 
 Välj dialog med assistenten när du vill komma igång på egen hand, utforska möjliga effekter stegvis eller få fram ett första underlag som senare kan kompletteras. Du bidrar med kunskap om förändringen och verksamheten. Assistenten hjälper dig att bredda och förtydliga effektlistan.
@@ -896,8 +856,6 @@ När listan är tillräckligt bred och tydlig analyseras den vidare. Kostnader s
 ---
 
 <!-- Artikel 21 av 72 | Källa: 4. Nyttor och kostnader/4.3 Analysera positiva effekter och beskriv nyttor och möjligheter.md -->
-
-# 4.3 Analysera positiva effekter och beskriv nyttor och möjligheter
 
 # 4.3 Analysera positiva effekter och beskriv nyttor och möjligheter
 
@@ -938,8 +896,6 @@ Beskriv vilken del av förändringen som bidrar till nyttan, vilka effekter som 
 ---
 
 <!-- Artikel 22 av 72 | Källa: 4. Nyttor och kostnader/4.4 Analysera negativa effekter och beskriv konsekvenskostnader, risker och hinder.md -->
-
-# 4.4 Analysera negativa effekter och beskriv konsekvenskostnader, risker och hinder
 
 # 4.4 Analysera negativa effekter och beskriv konsekvenskostnader, risker och hinder
 
@@ -984,8 +940,6 @@ Om underlaget nämner åtgärder som ska minska en risk kan du dokumentera dem. 
 ---
 
 <!-- Artikel 23 av 72 | Källa: 4. Nyttor och kostnader/4.5 Identifiera kostnader som krävs för att genomföra och upprätthålla förändringen.md -->
-
-# 4.5 Identifiera kostnader som krävs för att genomföra och upprätthålla förändringen
 
 # 4.5 Identifiera kostnader som krävs för att genomföra och upprätthålla förändringen
 
@@ -1043,8 +997,6 @@ Ange om kostnaden är en engångskostnad eller en löpande kostnad när det går
 
 # 4.6 Koppla förändringen, effekterna och nyttorna till verksamhetsmål
 
-# 4.6 Koppla förändringen, effekterna och nyttorna till verksamhetsmål
-
 ## Använd kopplingen till verksamhetsmål vid behov
 
 Kopplingen till verksamhetsmål är ett valfritt tillägg i nyttoanalysen. Använd det när du vill undersöka hur förändringen och analysens resultat förhåller sig till sådant som verksamheten redan har uttryckt som viktigt.
@@ -1084,8 +1036,6 @@ Håll texten kort och fokusera på de viktigaste kopplingarna. Lägg inte till n
 ---
 
 <!-- Artikel 25 av 72 | Källa: 4. Nyttor och kostnader/Frigjorda resurser – omfördelningsnytta, finansiell nytta eller kvalitetsnytta.md -->
-
-# Frigjorda resurser – omfördelningsnytta, finansiell nytta eller kvalitetsnytta?
 
 # Frigjorda resurser – omfördelningsnytta, finansiell nytta eller kvalitetsnytta?
 
@@ -1131,8 +1081,6 @@ Beskriv samtidigt att tiden är utspridd och vad det kan innebära för möjligh
 
 <!-- Artikel 26 av 72 | Källa: 4. Nyttor och kostnader/Kategorisera nyttor och kostnader.md -->
 
-# Kategorisering av nyttor och kostnader
-
 # Kategorisera nyttor och kostnader
 
 ## Kategorisera efter att nyttan eller kostnaden har identifierats
@@ -1174,8 +1122,6 @@ Dela däremot inte upp samma värde enbart för att det kan uttryckas på flera 
 ---
 
 <!-- Artikel 27 av 72 | Källa: 4. Nyttor och kostnader/Vad är en nytta och vilka nyttor är vanliga.md -->
-
-# Vad är en nytta och vilka nyttor är vanliga?
 
 # Vad är en nytta och vilka nyttor är vanliga?
 
@@ -1224,8 +1170,6 @@ I många skeden är det viktigt att synliggöra minskade utgifter, ökade inkoms
 
 <!-- Artikel 28 av 72 | Källa: 5. Värdering/5.1 Välj arbetssätt för värdering.md -->
 
-# 5.1-Valj-arbetssatt-for-vardering
-
 # 5.1 Välj arbetssätt för värdering
 
 ## Välj hur nyttorna och kostnaderna ska värderas
@@ -1254,8 +1198,6 @@ Dokumentera vilket arbetssätt du har valt och om en överslagsberäkning komple
 ---
 
 <!-- Artikel 29 av 72 | Källa: 5. Värdering/5.2 Välj vad som ska värderas i pengar.md -->
-
-# 5.2-Valj-vad-som-ska-varderas-i-pengar
 
 # 5.2 Välj vad som ska värderas i pengar
 
@@ -1286,8 +1228,6 @@ Värdera inte samma nytta eller kostnad både i pengar och med poäng.
 ---
 
 <!-- Artikel 30 av 72 | Källa: 5. Värdering/5.3 Värdera i pengar i Excelmallen.md -->
-
-# 5.3-Vardera-i-pengar-i-Excelmallen
 
 # 5.3 Värdera i pengar i Excelmallen
 
@@ -1336,8 +1276,6 @@ Undersök beräkningarna om du vill förstå resultatet närmare eller om något
 
 <!-- Artikel 31 av 72 | Källa: 5. Värdering/5.3.1 Excelguide - Fyll i Start.md -->
 
-# 5.3.1-Excelguide-Fyll-i-Start
-
 # 5.3.1 Excelguide: Fyll i Start
 
 ## Öppna mallen för den valda tidshorisonten
@@ -1357,8 +1295,6 @@ Fyll i de tre delarna i denna ordning:
 ---
 
 <!-- Artikel 32 av 72 | Källa: 5. Värdering/5.3.2 Excelguide - Bygg beräkningar i Värde nyttor och Värde kostnader.md -->
-
-# 5.3.2-Excelguide-Bygg-berakningar
 
 # 5.3.2 Excelguide: Bygg beräkningar i Värde nyttor och Värde kostnader
 
@@ -1396,8 +1332,6 @@ Kontrollera start, upp- eller nedtrappning, full nivå och eventuellt slut. Ange
 
 <!-- Artikel 33 av 72 | Källa: 5. Värdering/5.3.3 Excelguide - För in nyttor och kostnader i Ej värderade.md -->
 
-# 5.3.3-Excelguide-Ej-varderade
-
 # 5.3.3 Excelguide: För in nyttor och kostnader i Ej värderade
 
 ## Placera varje identifierad nytta och kostnad i rätt tabell
@@ -1415,8 +1349,6 @@ Ange **Liten**, **Måttlig** eller **Stor** bara när du eller analysgruppen har
 ---
 
 <!-- Artikel 34 av 72 | Källa: 5. Värdering/5.3.4 Excelguide - Uppdatera, kontrollera och tolka resultatet.md -->
-
-# 5.3.4-Excelguide-Uppdatera-kontrollera-och-tolka-resultatet
 
 # 5.3.4 Excelguide: Uppdatera, kontrollera och tolka resultatet
 
@@ -1474,8 +1406,6 @@ Behåll resultatet och beskriv det neutralt när uppgifterna och beräkningarna 
 
 <!-- Artikel 35 av 72 | Källa: 5. Värdering/5.3.5 Excelguide - Använd osäkerhetsdelen i Excelmallen.md -->
 
-# 5.3.5-Excelguide-Anvand-osakerhetsdelen
-
 # 5.3.5 Excelguide: Använd osäkerhetsdelen i Excelmallen
 
 ## Fyll i Lägst och Högst för alla värden
@@ -1505,8 +1435,6 @@ Tabellen jämför lägst nytta med lägst kostnad, trolig nytta med trolig kostn
 ---
 
 <!-- Artikel 36 av 72 | Källa: 5. Värdering/5.4 Uppskatta storleken på nyttor och kostnader med poäng.md -->
-
-# 5.4-Uppskatta-storleken-med-poang
 
 # 5.4 Uppskatta storleken på nyttor och kostnader med poäng
 
@@ -1553,8 +1481,6 @@ Om vissa nyttor och kostnader redan har värderats i pengar genom en överslagsb
 ---
 
 <!-- Artikel 37 av 72 | Källa: 5. Värdering/5.5 Gör en överslagsberäkning i pengar tillsammans med assistenten.md -->
-
-# 5.5-Gor-en-overslagsberakning-i-pengar
 
 # 5.5 Gör en överslagsberäkning i pengar tillsammans med assistenten
 
@@ -1627,8 +1553,6 @@ Ange att resultaten är odiskonterade och uttryckta i dagens prisnivå. Beskriv 
 
 <!-- Artikel 38 av 72 | Källa: 5. Värdering/Beräkna förändrad sjukfrånvaro.md -->
 
-# Berakna-forandrad-sjukfranvaro
-
 # Beräkna förändrad sjukfrånvaro
 
 ## Beräkna hur mycket sjukfrånvaron förändras
@@ -1665,8 +1589,6 @@ Ta hänsyn till om arbetet ändå utförs av en kollega eller vikarie. Räkna in
 
 <!-- Artikel 39 av 72 | Källa: 5. Värdering/Beräkna förändrade resor och drivmedelskostnader.md -->
 
-# Berakna-forandrade-resor-och-drivmedelskostnader
-
 # Beräkna förändrade resor och drivmedelskostnader
 
 ## Beräkna förändringen i körsträcka
@@ -1702,8 +1624,6 @@ Lägg inte till drivmedelskostnaden om den redan ingår i en milersättning elle
 ---
 
 <!-- Artikel 40 av 72 | Källa: 5. Värdering/Beräkna kostnader vid förändrad personalomsättning.md -->
-
-# Berakna-kostnader-vid-forandrad-personalomsattning
 
 # Beräkna kostnader vid förändrad personalomsättning
 
@@ -1747,8 +1667,6 @@ Räkna bara den faktiska skillnaden mellan Alternativ A och Alternativ B.
 
 <!-- Artikel 41 av 72 | Källa: 5. Värdering/Beräkna timkostnad för personal.md -->
 
-# Berakna-timkostnad-for-personal
-
 # Beräkna timkostnad för personal
 
 ## Använd lokal timkostnad eller Ineras kalkylfaktorer
@@ -1778,8 +1696,6 @@ Timkostnaden omfattar de delar som anges i källan eller kalkylfaktorn. Lägg in
 ---
 
 <!-- Artikel 42 av 72 | Källa: 5. Värdering/Beräkna värdet på invånarens tid.md -->
-
-# Berakna-vardet-pa-invanarens-tid
 
 # Beräkna värdet på invånarens tid
 
@@ -1814,8 +1730,6 @@ Skilj också mellan invånarens tid och personalens arbetstid. De kan förändra
 ---
 
 <!-- Artikel 43 av 72 | Källa: 5. Värdering/Beräkningsmönster i Excel - kostnader och nyttor över tid.md -->
-
-# Berakningsmonster-i-Excel-kostnader-och-nyttor-over-tid
 
 # Beräkningsmönster i Excel: kostnader och nyttor över tid
 
@@ -1865,8 +1779,6 @@ Lägg nyttor eller kostnader som fortsätter efter införandet i separata beräk
 ---
 
 <!-- Artikel 44 av 72 | Källa: 5. Värdering/Beräkningsmönster i Excel - personaltid.md -->
-
-# Berakningsmonster-i-Excel-personaltid
 
 # Beräkningsmönster i Excel: personaltid
 
@@ -1943,8 +1855,6 @@ Beräkna bara den arbetstid som förändras jämfört med Alternativ A. Lägg en
 
 <!-- Artikel 45 av 72 | Källa: 5. Värdering/Beräkningsmönster i Excel - utgifter och intäkter.md -->
 
-# Berakningsmonster-i-Excel-utgifter-och-intakter
-
 # Beräkningsmönster i Excel: utgifter och intäkter
 
 ## Räkna på förändrade utgifter och intäkter
@@ -1998,8 +1908,6 @@ Beräkna deltagarnas arbetstid, resor och andra kostnader separat om de också f
 
 <!-- Artikel 46 av 72 | Källa: 5. Värdering/Beräkningsprinciper för värdering i pengar.md -->
 
-# Berakningsprinciper-for-vardering-i-pengar
-
 # Beräkningsprinciper för värdering i pengar
 
 ## Välj underlag i rätt ordning
@@ -2037,8 +1945,6 @@ Redovisa en överslagsberäkning tillsammans med assistenten utan diskontering o
 ---
 
 <!-- Artikel 47 av 72 | Källa: 5. Värdering/Ineras kalkylfaktorer.md -->
-
-# Ineras-kalkylfaktorer
 
 # Ineras kalkylfaktorer
 
@@ -2124,8 +2030,6 @@ Förbrukningen är en schablon för bilar i småbilsklass. Använd lokala uppgif
 
 # Om data, antaganden och precision
 
-# Om data, antaganden och precision
-
 ## Använd data för att bedöma storlek och värde
 
 Använd data för att bedöma hur stora nyttor och kostnader kan bli och, när det är relevant, vad de kan värderas till. Underlaget behöver inte vara exakt för att vara användbart. Det behöver vara tillräckligt bra för analysens syfte och göra storleksordning, riktning och viktiga skillnader begripliga.
@@ -2165,8 +2069,6 @@ Dokumentera viktiga osäkra uppgifter och antaganden under värderingen. Använd
 ---
 
 <!-- Artikel 49 av 72 | Källa: 6. Osäkerhet/6. Bedöm osäkerheten.md -->
-
-# 6. Bedöm osäkerheten
 
 # 6. Bedöm osäkerheten
 
@@ -2229,8 +2131,6 @@ I sådana fall visar analysen eller det beräknade resultatet inte hela bilden. 
 
 # 7. Sammanfatta och färdigställ nyttoanalysen
 
-# 7. Sammanfatta och färdigställ nyttoanalysen
-
 ## Steg 7 samlar ihop analysen
 
 När de tidigare metodstegen är genomförda återstår att sammanfatta analysen, beskriva hur den har gjorts och kontrollera att rapporten är tydlig och användbar. Rapporten ska kunna förstås och granskas även av personer som inte har deltagit i analysarbetet.
@@ -2289,8 +2189,6 @@ Du kan ta upp frågor eller be assistenten att revidera vilken del av rapporten 
 
 # Följ upp nyttor när förändringen genomförs
 
-# Följ upp nyttor när förändringen genomförs
-
 ## Börja följa upp när förändringen börjar
 
 Nyttoanalysen beskriver vilka nyttor som förväntas uppstå. När förändringen börjar genomföras kan du börja följa om utvecklingen går åt rätt håll.
@@ -2318,8 +2216,6 @@ När uppföljningen visar en positiv utveckling ger den samtidigt stöd för att
 ---
 
 <!-- Artikel 52 av 72 | Källa: Referensanalyser/Anpassa en referensanalys till din organisation.md -->
-
-# Anpassa en referensanalys till din organisation
 
 # Anpassa en referensanalys till din organisation
 
@@ -3247,8 +3143,6 @@ Någon värdering i pengar har inte gjorts i denna referensanalys, och kommuner 
 
 # Excelguide – digital nattillsyn
 
-# Excelguide – digital nattillsyn
-
 Syfte: Beskriva Excelmallens fältlogik, fältordning, analysspecifika kunskap och kontrollpunkter för digital nattillsyn.
 
 ## 1. Analysens ram
@@ -3386,8 +3280,6 @@ Följ den gemensamma regeln för att förklara resultatet. Använd stödet nedan
 ---
 
 <!-- Artikel 58 av 72 | Källa: Referensanalyser/Excelguide – digitala besök.md -->
-
-# Excelguide – digitala besök
 
 # Excelguide – digitala besök
 
@@ -3558,8 +3450,6 @@ Syfte: Beskriva Excelmallens fältlogik, fältordning, analysspecifika kunskap o
 
 # Excelguide – digitala inköp
 
-# Excelguide – digitala inköp
-
 Syfte: Beskriva Excelmallens fältlogik, fältordning, analysspecifika kunskap och kontrollpunkter för digitala inköp.
 
 ## 1. Analysens ram
@@ -3691,8 +3581,6 @@ Följ den gemensamma regeln för att förklara resultatet. Använd stödet nedan
 ---
 
 <!-- Artikel 60 av 72 | Källa: Referensanalyser/Excelguide – Digitala lås.md -->
-
-# Excelguide - digitala lås
 
 # Excelguide – Digitala lås
 
@@ -3860,8 +3748,6 @@ Följ den gemensamma regeln för att förklara resultatet. Använd stödet nedan
 
 # Excelguide – läkemedelsautomater
 
-# Excelguide – läkemedelsautomater
-
 Syfte: Beskriva Excelmallens fältlogik, fältordning, analysspecifika kunskap och kontrollpunkter för läkemedelsautomater.
 
 ## 1. Analysens ram
@@ -4007,8 +3893,6 @@ Följ den gemensamma regeln för att förklara resultatet. Använd stödet nedan
 ---
 
 <!-- Artikel 62 av 72 | Källa: Referensanalyser/Excelguide – mobila trygghetslarm.md -->
-
-# Excelguide – mobila trygghetslarm
 
 # Excelguide – mobila trygghetslarm
 
@@ -4168,8 +4052,6 @@ Följ den gemensamma regeln för att förklara resultatet. Använd stödet nedan
 ---
 
 <!-- Artikel 63 av 72 | Källa: Referensanalyser/Excelguider - gemensamma regler.md -->
-
-# Excelguider - gemensamma regler
 
 # Excelguider - gemensamma regler
 
@@ -4973,8 +4855,6 @@ Denna referensanalys gäller införande av mobila trygghetslarm och jämför ett
 
 # Vad en referensanalys är och när den passar
 
-# Vad en referensanalys är och när den passar
-
 ## En referensanalys är en nyttoanalys som andra delar med sig av
 
 I vissa fall har en organisation redan gjort en fullständig nyttoanalys enligt Ineras metod och valt att dela med sig av den. Referensanalysen består av en rapport som beskriver analysen och en Excelmall som används för värderingen.
@@ -5011,8 +4891,6 @@ Utgå då direkt från det nuläge och den förändring som ni faktiskt vill ana
 
 # Ordlista: Alternativ A, Alternativ B, förändring och effektkedja
 
-# Ordlista: Alternativ A, Alternativ B, förändring och effektkedja
-
 ## Vad är Alternativ A och Alternativ B?
 
 **Alternativ A** är det alternativ som fungerar som jämförelsepunkt i analysen. Alternativ A kan vara nuläget eller ett annat relevant jämförelsealternativ.
@@ -5030,8 +4908,6 @@ Begreppet effektkedja används för det visuella diagrammet. När sambanden besk
 ---
 
 <!-- Artikel 68 av 72 | Källa: Valfritt stöd och fördjupning/Ordlista - mål, risk, hinder, möjlighet, indikator och osäkerhetsanalys.md -->
-
-# Ordlista: mål, risk, hinder, möjlighet, indikator och osäkerhetsanalys
 
 # Ordlista: mål, risk, hinder, möjlighet, indikator och osäkerhetsanalys
 
@@ -5060,8 +4936,6 @@ En **osäkerhetsanalys** bedömer var i nyttoanalysen osäkerheten är störst o
 ---
 
 <!-- Artikel 69 av 72 | Källa: Valfritt stöd och fördjupning/Ordlista - nyttoanalys, effekt, nytta, kostnad, perspektiv och nyttorealisering.md -->
-
-# Ordlista: nyttoanalys, effekt, nytta, kostnad, perspektiv och nyttorealisering
 
 # Ordlista: nyttoanalys, effekt, nytta, kostnad, perspektiv och nyttorealisering
 
@@ -5119,8 +4993,6 @@ En **intressent** är en individ, grupp eller organisation som påverkas av elle
 
 # Ordlista: uppskattad storlek, värderad i pengar, diskontering, ackumulerad och nettonytta
 
-# Ordlista: uppskattad storlek, värderad i pengar, diskontering, ackumulerad och nettonytta
-
 ## Vad är en uppskattad storlek?
 
 En **uppskattad storlek** är en bedömning av hur stor en nytta eller kostnad är utan att den värderas i pengar. Uppskattningen beskriver alltså nyttans eller kostnadens omfattning utan att uttrycka värdet som ett belopp.
@@ -5156,8 +5028,6 @@ När måttet beskrivs i relation till en satsad krona används uttrycket **netto
 ---
 
 <!-- Artikel 71 av 72 | Källa: Valfritt stöd och fördjupning/Terminologiska riktlinjer för nyttoanalysen.md -->
-
-# Terminologiska riktlinjer för nyttoanalysen
 
 # Terminologiska riktlinjer för nyttoanalysen
 
@@ -5215,8 +5085,6 @@ När måttet beskrivs i relation till en satsad krona används uttrycket **netto
 ---
 
 <!-- Artikel 72 av 72 | Källa: Valfritt stöd och fördjupning/Visualisera samband med en effektkedja.md -->
-
-# Visualisera samband med en effektkedja
 
 # Visualisera samband med en effektkedja
 
