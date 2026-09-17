@@ -1,7 +1,5 @@
 # Översikt över nyttoanalysens sju steg
 
-# Översikt över nyttoanalysens sju steg
-
 ## Metoden hjälper dig att bygga en sammanhängande analys
 
 Inera-metoden delar upp nyttoanalysen i sju steg. Stegen hjälper dig att tydliggöra vad som analyseras, identifiera och värdera nyttor och kostnader samt sammanfatta vad analysen visar.

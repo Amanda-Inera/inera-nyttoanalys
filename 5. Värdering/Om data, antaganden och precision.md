@@ -1,7 +1,5 @@
 # Om data, antaganden och precision
 
-# Om data, antaganden och precision
-
 ## Använd data för att bedöma storlek och värde
 
 Använd data för att bedöma hur stora nyttor och kostnader kan bli och, när det är relevant, vad de kan värderas till. Underlaget behöver inte vara exakt för att vara användbart. Det behöver vara tillräckligt bra för analysens syfte och göra storleksordning, riktning och viktiga skillnader begripliga.

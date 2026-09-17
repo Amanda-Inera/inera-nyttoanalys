@@ -1,5 +1,3 @@
-# Kategorisering av nyttor och kostnader
-
 # Kategorisera nyttor och kostnader
 
 ## Kategorisera efter att nyttan eller kostnaden har identifierats

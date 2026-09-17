@@ -1,7 +1,5 @@
 # Varför göra en nyttoanalys?
 
-# Varför göra en nyttoanalys?
-
 ## Förstå förändringens samlade konsekvenser
 
 En nyttoanalys hjälper dig att undersöka vilka positiva och negativa konsekvenser en förändring kan få. När du beskriver både nyttor och kostnader ur relevanta perspektiv blir det lättare att se vilka värden förändringen kan skapa, vilka resurser den kräver och vilka avvägningar som behöver göras.

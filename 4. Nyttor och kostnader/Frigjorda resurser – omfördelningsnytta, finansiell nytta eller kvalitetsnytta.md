@@ -1,7 +1,5 @@
 # Frigjorda resurser – omfördelningsnytta, finansiell nytta eller kvalitetsnytta?
 
-# Frigjorda resurser – omfördelningsnytta, finansiell nytta eller kvalitetsnytta?
-
 ## Omfördelning gäller befintliga resurser
 
 Omfördelning används när befintliga resurser frigörs eller behöver tas från en annan användning utan att utan att organisationens kostnader eller intäkter förändras. Frigjord tid eller andra frigjorda resurser är en omfördelningsnytta. Resurser som behöver tas från befintlig verksamhet är en omfördelningskostnad.

@@ -1,7 +1,5 @@
 # Terminologiska riktlinjer för nyttoanalysen
 
-# Terminologiska riktlinjer för nyttoanalysen
-
 ## Begrepp för jämförelse och analys
 
 | Använd inte | Använd i stället | Varför |

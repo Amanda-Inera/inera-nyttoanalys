@@ -1,7 +1,5 @@
 # Excelguide – mobila trygghetslarm
 
-# Excelguide – mobila trygghetslarm
-
 Syfte: Beskriva Excelmallens fältlogik, fältordning, analysspecifika kunskap och kontrollpunkter för mobila trygghetslarm.
 
 ## 1. Analysens ram

@@ -1,7 +1,5 @@
 # Ordlista: uppskattad storlek, värderad i pengar, diskontering, ackumulerad och nettonytta
 
-# Ordlista: uppskattad storlek, värderad i pengar, diskontering, ackumulerad och nettonytta
-
 ## Vad är en uppskattad storlek?
 
 En **uppskattad storlek** är en bedömning av hur stor en nytta eller kostnad är utan att den värderas i pengar. Uppskattningen beskriver alltså nyttans eller kostnadens omfattning utan att uttrycka värdet som ett belopp.

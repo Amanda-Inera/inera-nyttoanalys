@@ -1,5 +1,3 @@
-# Berakna-timkostnad-for-personal
-
 # Beräkna timkostnad för personal
 
 ## Använd lokal timkostnad eller Ineras kalkylfaktorer

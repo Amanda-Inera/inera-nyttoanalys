@@ -1,5 +1,3 @@
-# Berakna-kostnader-vid-forandrad-personalomsattning
-
 # Beräkna kostnader vid förändrad personalomsättning
 
 ## Beräkna hur många medarbetare som slutar

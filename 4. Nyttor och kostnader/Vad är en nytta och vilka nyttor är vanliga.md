@@ -1,7 +1,5 @@
 # Vad är en nytta och vilka nyttor är vanliga?
 
-# Vad är en nytta och vilka nyttor är vanliga?
-
 ## En nytta är en effekt som uppfattas som värdefull
 
 En nytta är en effekt som uppfattas som värdefull av en eller flera intressenter. Det kan exempelvis vara organisationen, medarbetare, invånare, patienter, brukare, närstående eller samhället.

@@ -1,5 +1,3 @@
-# Berakna-forandrad-sjukfranvaro
-
 # Beräkna förändrad sjukfrånvaro
 
 ## Beräkna hur mycket sjukfrånvaron förändras

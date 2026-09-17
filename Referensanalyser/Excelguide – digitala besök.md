@@ -1,7 +1,5 @@
 # Excelguide – digitala besök
 
-# Excelguide – digitala besök
-
 Syfte: Beskriva Excelmallens fältlogik, fältordning, analysspecifika kunskap och kontrollpunkter för digitala besök.
 
 ## 1. Analysens ram

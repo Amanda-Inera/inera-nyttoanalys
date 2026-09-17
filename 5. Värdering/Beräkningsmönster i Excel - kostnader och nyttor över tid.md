@@ -1,5 +1,3 @@
-# Berakningsmonster-i-Excel-kostnader-och-nyttor-over-tid
-
 # Beräkningsmönster i Excel: kostnader och nyttor över tid
 
 ## Lägg en engångskostnad på rätt år

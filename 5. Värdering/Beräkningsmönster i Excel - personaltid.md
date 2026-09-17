@@ -1,5 +1,3 @@
-# Berakningsmonster-i-Excel-personaltid
-
 # Beräkningsmönster i Excel: personaltid
 
 ## Räkna på personaltid utifrån de tidsuppgifter du har

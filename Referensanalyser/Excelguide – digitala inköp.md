@@ -1,7 +1,5 @@
 # Excelguide – digitala inköp
 
-# Excelguide – digitala inköp
-
 Syfte: Beskriva Excelmallens fältlogik, fältordning, analysspecifika kunskap och kontrollpunkter för digitala inköp.
 
 ## 1. Analysens ram

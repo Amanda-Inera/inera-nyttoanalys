@@ -1,7 +1,5 @@
 # Visualisera samband med en effektkedja
 
-# Visualisera samband med en effektkedja
-
 ## Visualisera när du själv vill reda ut sambanden
 
 En visualiserad effektkedja är ett frivilligt stöd och ingår inte i den normala arbetsgången. Använd den när du själv vill rita upp samband, upptäcka luckor eller förklara analysen för andra. Om du uttryckligen ber om det kan assistenten hjälpa dig att strukturera innehållet i visualiseringen.

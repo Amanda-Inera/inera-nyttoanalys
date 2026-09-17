@@ -1,7 +1,5 @@
 # Excelguide – digital nattillsyn
 
-# Excelguide – digital nattillsyn
-
 Syfte: Beskriva Excelmallens fältlogik, fältordning, analysspecifika kunskap och kontrollpunkter för digital nattillsyn.
 
 ## 1. Analysens ram

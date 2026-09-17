@@ -1,7 +1,5 @@
 # Följ upp nyttor när förändringen genomförs
 
-# Följ upp nyttor när förändringen genomförs
-
 ## Börja följa upp när förändringen börjar
 
 Nyttoanalysen beskriver vilka nyttor som förväntas uppstå. När förändringen börjar genomföras kan du börja följa om utvecklingen går åt rätt håll.

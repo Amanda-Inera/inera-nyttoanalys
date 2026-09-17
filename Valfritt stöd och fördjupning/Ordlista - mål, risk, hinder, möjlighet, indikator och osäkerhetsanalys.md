@@ -1,7 +1,5 @@
 # Ordlista: mål, risk, hinder, möjlighet, indikator och osäkerhetsanalys
 
-# Ordlista: mål, risk, hinder, möjlighet, indikator och osäkerhetsanalys
-
 ## Vad är ett mål, verksamhetsmål och effektmål?
 
 Ett **mål** är ett önskat tillstånd eller resultat som en verksamhet vill uppnå.

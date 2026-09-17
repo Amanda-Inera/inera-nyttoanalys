@@ -1,7 +1,5 @@
 # Ordlista: Alternativ A, Alternativ B, förändring och effektkedja
 
-# Ordlista: Alternativ A, Alternativ B, förändring och effektkedja
-
 ## Vad är Alternativ A och Alternativ B?
 
 **Alternativ A** är det alternativ som fungerar som jämförelsepunkt i analysen. Alternativ A kan vara nuläget eller ett annat relevant jämförelsealternativ.

@@ -1,7 +1,5 @@
 # Vad krävs för att göra en nyttoanalys med stöd från assistenten?
 
-# Vad krävs för att göra en nyttoanalys med stöd från assistenten?
-
 ## Du kan börja utan en färdig plan
 
 Du behöver inte planera hela arbetet, samla in allt underlag eller sätta ihop en analysgrupp innan du börjar. Utgå från det du redan vet om förändringen. Assistenten leder dig genom nyttoanalysens steg och berättar efter hand vilken information som behövs.

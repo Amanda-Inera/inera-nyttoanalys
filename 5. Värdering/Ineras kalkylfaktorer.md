@@ -1,5 +1,3 @@
-# Ineras-kalkylfaktorer
-
 # Ineras kalkylfaktorer
 
 ## Använd Ineras kalkylfaktorer när lokala uppgifter saknas

@@ -1,5 +1,3 @@
-# Berakna-forandrade-resor-och-drivmedelskostnader
-
 # Beräkna förändrade resor och drivmedelskostnader
 
 ## Beräkna förändringen i körsträcka

@@ -1,7 +1,5 @@
 # Excelguider - gemensamma regler
 
-# Excelguider - gemensamma regler
-
 Syfte: gemensamma regler för återanvändbar, fältnära vägledning i referensanalysernas Excelmallar.
 
 ## 1. Dokumentets roll

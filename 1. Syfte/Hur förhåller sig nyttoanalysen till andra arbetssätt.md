@@ -1,7 +1,5 @@
 # Hur förhåller sig nyttoanalysen till andra arbetssätt?
 
-# Hur förhåller sig nyttoanalysen till andra arbetssätt?
-
 ## Nyttoanalysen är en del av ett större förändringsarbete
 
 En nyttoanalys hjälper dig att beskriva och bedöma vilka nyttor och kostnader en förändring förväntas leda till. Den kan ge underlag för förståelse, dialog, beslut, planering och uppföljning, men ersätter inte andra analyser eller det arbete som krävs för att genomföra förändringen.

@@ -1,5 +1,3 @@
-# Berakningsprinciper-for-vardering-i-pengar
-
 # Beräkningsprinciper för värdering i pengar
 
 ## Välj underlag i rätt ordning

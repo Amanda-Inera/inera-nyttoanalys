@@ -1,5 +1,3 @@
-# Berakningsmonster-i-Excel-utgifter-och-intakter
-
 # Beräkningsmönster i Excel: utgifter och intäkter
 
 ## Räkna på förändrade utgifter och intäkter

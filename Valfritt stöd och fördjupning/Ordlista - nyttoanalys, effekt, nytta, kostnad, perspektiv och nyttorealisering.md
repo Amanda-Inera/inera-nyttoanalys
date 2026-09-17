@@ -1,7 +1,5 @@
 # Ordlista: nyttoanalys, effekt, nytta, kostnad, perspektiv och nyttorealisering
 
-# Ordlista: nyttoanalys, effekt, nytta, kostnad, perspektiv och nyttorealisering
-
 ## Vad är nyttoanalys och nyttorealisering?
 
 En **nyttoanalys** är en systematisk genomgång av de nyttor och kostnader som är förknippade med en förändring. Nyttorna och kostnaderna identifieras, beskrivs och uppskattas och värderas vid behov i pengar.

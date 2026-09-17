@@ -1,7 +1,5 @@
 # Vad en referensanalys är och när den passar
 
-# Vad en referensanalys är och när den passar
-
 ## En referensanalys är en nyttoanalys som andra delar med sig av
 
 I vissa fall har en organisation redan gjort en fullständig nyttoanalys enligt Ineras metod och valt att dela med sig av den. Referensanalysen består av en rapport som beskriver analysen och en Excelmall som används för värderingen.

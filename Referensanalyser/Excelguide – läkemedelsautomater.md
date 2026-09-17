@@ -1,7 +1,5 @@
 # Excelguide – läkemedelsautomater
 
-# Excelguide – läkemedelsautomater
-
 Syfte: Beskriva Excelmallens fältlogik, fältordning, analysspecifika kunskap och kontrollpunkter för läkemedelsautomater.
 
 ## 1. Analysens ram

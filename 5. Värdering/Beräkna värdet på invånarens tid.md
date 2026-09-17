@@ -1,5 +1,3 @@
-# Berakna-vardet-pa-invanarens-tid
-
 # Beräkna värdet på invånarens tid
 
 ## Beräkna hur mycket tid som förändras

@@ -1,7 +1,5 @@
 # Anpassa en referensanalys till din organisation
 
-# Anpassa en referensanalys till din organisation
-
 ## Välj om du vill göra en lokal effektworkshop
 
 En lokal effektworkshop hjälper dig att undersöka om medarbetarna i organisationen förväntar sig samma nyttor, kostnader, risker och hinder som finns i referensanalysen. Workshopen kan också bidra till förståelse och förankring inför förändringen.

@@ -1,5 +1,3 @@
-# Excelguide - digitala lås
-
 # Excelguide – Digitala lås
 
 Syfte: Beskriva Excelmallens fältlogik, fältordning, analysspecifika kunskap och kontrollpunkter för digitala lås.
