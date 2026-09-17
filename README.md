@@ -2,40 +2,42 @@
 
 Detta repository innehåller Ineras kunskapsbas för nyttoanalyser.
 
-Kunskapsbasen beskriver Ineras metod för nyttoanalyser (tidigare kallad Ineras metod för nyttokalkyler). Kunskapsbasen ligger också till grund för den kommande AI-assistenten för nyttoanalyser. 
+Kunskapsbasen beskriver den uppdaterade versionen av metoden för nyttoanalyser och ligger till grund för den kommande AI-assistenten för nyttoanalyser. Materialet publiceras här för att göra metoden och kunskapsbasen tillgängliga för användare redan innan AI-assistenten är klar.
 
-Materialet publiceras här för att göra metoden och kunskapsbasen tillgängliga för användare och andra som vill ta del av dem.
+När AI-assistenten är klar kommer metoden också att finnas tillgänglig som artiklar på en vanlig webbsida.
 
 ## Aktuell version
 
-**KB 06**
+KB 06 är den nuvarande versionen av kunskapsbasen. När en ny version publiceras uppdateras innehållet i här. Tidigare versioner kan bevaras genom GitHubs versionshistorik, taggar och releases.
 
-KB 06 är den version av kunskapsbasen som AI-assistenten för nyttoanalyser för närvarande bygger på. Kunskapsbasen vidareutvecklas över tid. Publicerade versioner bevaras genom GitHubs versionshistorik och kan märkas med taggar eller releases, så att det även i efterhand går att hänvisa till en specifik version.
+## Så använder du kunskapsbasen
+
+Kunskapsbasen består av textfiler i formatet Markdown (`.md`). Textfilerna är skrivna för att kunna fungera bra för den kommande AI-assistenten, men också för att kunna läsas direkt av oss som människor. Du kan använda kunskapsbasen på något av följande sätt:
+
+- **Läsa i webbläsaren:** klicka på mapparna och sedan på de olika textfilerna. De visas som vanlig webbsidor.
+- **Använda din egen AI:** ge AI:n länken. Om din AI inte kan läsa länken direkt kan du ladda ner filerna och ge till din AI istället.
+- **Ladda ner filerna:** klicka på den gröna knappen Code och välj Download ZIP.
 
 ## Så hittar du i kunskapsbasen
 
-Dokumenten utgör  kunskapsbasen. För att få en övergripande förståelse för metoden rekommenderas att börja med de översiktliga dokumenten och därefter gå vidare till de metodspecifika dokument som är relevanta för den analys som ska genomföras.
-
-## Hur kunskapsbasen används
-Kunskapsbasen är avsedd som stöd för att genomföra nyttoanalyser. Dokumenten ska ses som delar av en sammanhängande kunskapsbas. De översiktliga dokumenten ger sammanhang och gemensamma principer, medan de metodspecifika dokumenten ger mer detaljerat stöd för olika moment i analysen.
-
-## Versioner och ändringar
-Den aktuella versionen finns i repositoryts huvudgren (`main`). När en ny version av kunskapsbasen publiceras kommer den tidigare versionen att finnas kvar i GitHubs versionshistorik. Större publicerade versioner kan även markeras med en tagg eller release, exempelvis `kb-06`, så att det går att gå tillbaka till och hänvisa till en specifik version även efter att en senare version har publicerats.
+Dokumenten i repositoryt utgör tillsammans kunskapsbasen, och de ligger sorterade i mappar. Det finns både övergripande artiklar och mer detaljerade artiklar för olika delar av en nyttoanalys, samt ordlista, stödmaterial och referensanalyser.
 
 ## Återkoppling
-Synpunkter, frågor och förbättringsförslag är välkomna. Du kan skapa ett **Issue** i detta repository för att lämna återkoppling. Issues passar särskilt bra för synpunkter som rör ett specifikt dokument, en oklarhet i metoden eller ett förslag på förändring som kan behöva följas upp. Du kan också kontakta ansvarig på Inera via e-post: amanda.sundberg@inera.se.
+
+Synpunkter, frågor och förbättringsförslag är välkomna.
+
+Du kan skapa ett **Issue** i detta repository om du är van vid GitHub, eller kontakta ansvarig på Inera via e-post: amanda.sundberg@inera.se.
 
 ## Ansvar
+
 Kunskapsbasen förvaltas av **Inera**.
 
 ## Upphovsrätt och användning
-Materialet publiceras för att göra Ineras kunskapsbas och metod för nyttoanalyser tillgänglig för användare och andra intresserade. Ingen särskild öppen licens har ännu beslutats för materialet. Upphovsrätt gäller därför enligt tillämplig lagstiftning.
 
-### Vad innebär det?
-Du får ta del av materialet och använda kunskapen, idéerna och metodprinciperna som stöd när du genomför egna nyttoanalyser.
+Materialet publiceras för att göra Ineras kunskapsbas och metod för nyttoanalyser tillgänglig för användare och andra intresserade.
 
-Att materialet är publikt innebär däremot inte i sig ett generellt tillstånd att kopiera, bearbeta, återpublicera eller distribuera kunskapsbasens texter och andra upphovsrättsligt skyddade delar.
+Ingen särskild öppen licens har ännu beslutats för materialet. Upphovsrätt gäller därför enligt tillämplig lagstiftning. Det betyder att du får ta del av materialet och använda kunskapen, idéerna och metodprinciperna som stöd när du genomför egna nyttoanalyser. Att materialet är publikt innebär däremot inte i sig ett generellt tillstånd att kopiera, bearbeta, återpublicera eller distribuera kunskapsbasens texter och andra upphovsrättsligt skyddade delar.
 
 Om du vill återpublicera materialet, skapa och sprida en bearbetad version eller använda hela eller delar av kunskapsbasen på annat sätt som innebär kopiering eller vidarepublicering kan tillstånd från rättighetsinnehavaren behövas.
 
-Inera utreder för närvarande vilken öppen licens som ska gälla för materialet. Avsikten är att villkoren för återanvändning ska bli tydligare. Informationen här kommer att uppdateras när licensfrågan är fastställd.
+Inera utreder för närvarande vilken öppen licens som ska gälla för materialet. Informationen här kommer att uppdateras när licensfrågan är fastställd.
