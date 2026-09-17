@@ -14,7 +14,7 @@ on:
       - "7. Sammanfattning/**"
       - "Referensanalyser/**"
       - "Valfritt stöd och fördjupning/**"
-      - "scripts/build_kb06_samlad.py"
+      - ".github/scripts/build_kb06_samlad.py"
       - ".github/workflows/build-kb06-samlad.yml"
   workflow_dispatch:
 
@@ -38,7 +38,7 @@ jobs:
           python-version: "3.12"
 
       - name: Bygg samlingsfilen
-        run: python scripts/build_kb06_samlad.py
+        run: python .github/scripts/build_kb06_samlad.py
 
       - name: Spara uppdaterad samlingsfil
         run: |
