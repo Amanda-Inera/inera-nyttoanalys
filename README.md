@@ -8,15 +8,23 @@ När AI-assistenten är klar kommer metoden också att finnas tillgänglig som a
 
 ## Aktuell version
 
-KB 06 är den nuvarande versionen av kunskapsbasen. När en ny version publiceras uppdateras innehållet i här. Tidigare versioner kan bevaras genom GitHubs versionshistorik, taggar och releases.
+KB 06 är den nuvarande versionen av kunskapsbasen. När en ny version publiceras uppdateras innehållet här. Tidigare versioner kan bevaras genom GitHubs versionshistorik, taggar och releases.
 
 ## Så använder du kunskapsbasen
 
 Kunskapsbasen består av textfiler i formatet Markdown (`.md`). Textfilerna är skrivna för att kunna fungera bra för den kommande AI-assistenten, men också för att kunna läsas direkt av oss som människor. Du kan använda kunskapsbasen på något av följande sätt:
 
-- **Läsa i webbläsaren:** klicka på mapparna och sedan på de olika textfilerna. De visas som vanlig webbsidor.
-- **Använda din egen AI:** ge AI:n länken. Om din AI inte kan läsa länken direkt kan du ladda ner filerna och ge till din AI istället.
+- **Läsa i webbläsaren:** klicka på mapparna och sedan på de olika textfilerna. De visas som vanliga webbsidor.
+- **Använda din egen AI:** ladda ner [`KB06-samlad.md`](KB06-samlad.md), som innehåller samtliga 72 artiklar i en fil, och ge filen till din AI.
 - **Ladda ner filerna:** klicka på den gröna knappen Code och välj Download ZIP.
+
+## Kunskapsbas och tekniska filer
+
+Kunskapsbasens 72 originalartiklar ligger i de numrerade mapparna samt i mapparna `Referensanalyser` och `Valfritt stöd och fördjupning`.
+
+Filen [`KB06-samlad.md`](KB06-samlad.md) är en automatiskt genererad kopia av alla artiklar, avsedd för enkel nedladdning och användning i AI-verktyg. Ändringar ska göras i originalartiklarna, inte direkt i samlingsfilen.
+
+Mappen `.github` innehåller den tekniska automatisering som bygger om samlingsfilen när någon av originalartiklarna ändras. Den är inte en del av kunskapsbasens innehåll.
 
 ## Så hittar du i kunskapsbasen
 
