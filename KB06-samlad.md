@@ -1222,56 +1222,7 @@ I många skeden är det viktigt att synliggöra minskade utgifter, ökade inkoms
 
 ---
 
-<!-- Artikel 28 av 72 | Källa: 4. Nyttor och kostnader/Visualisera samband med en effektkedja.md -->
-
-# Visualisera samband med en effektkedja
-
-# Visualisera samband med en effektkedja
-
-## Visualisera när du själv vill reda ut sambanden
-
-En visualiserad effektkedja är ett frivilligt stöd och ingår inte i den normala arbetsgången. Använd den när du själv vill rita upp samband, upptäcka luckor eller förklara analysen för andra. Om du uttryckligen ber om det kan assistenten hjälpa dig att strukturera innehållet i visualiseringen.
-
-## Välj vad som ska ingå i visualiseringen
-
-I en visualiserad effektkedja tar du med de delar som behövs för frågan du undersöker. Det kan vara:
-
-- en komponent eller annan del av förändringen
-- ett beteende
-- en effekt
-- en nytta eller konsekvenskostnad
-- en risk, ett hinder eller en möjlighet
-- ett verksamhetsmål
-
-Låt varje låda innehålla en sak. Dela upp formuleringar som blandar flera komponenter, beteenden eller effekter. Ange vem som berörs när det behövs för att förstå effekten, nyttan eller kostnaden.
-
-## Rita pilar mellan orsak och verkan
-
-I en visualiserad effektkedja använder du pilar för att visa de samband du vill pröva. En del av förändringen kan leda till ett beteende eller en effekt. Ett beteende kan leda till en eller flera effekter, och flera effekter kan tillsammans leda till samma nytta eller konsekvenskostnad.
-
-En del kan kopplas till flera andra delar när det finns tydliga orsakssamband. Om kedjan hoppar direkt från en del av förändringen till en övergripande nytta kan ett beteende eller en mellanliggande effekt saknas.
-
-## Visa risker, hinder, möjligheter och olika kostnader separat
-
-I en visualiserad effektkedja visar du en risk som en möjlig negativ händelse och kopplar den till den negativa konsekvens som kan uppstå. Visa ett hinder genom vad det kan försvåra eller förhindra. Visa en möjlighet tillsammans med det ytterligare beslut eller den resursinsats som krävs för att den ska bli verklig.
-
-Visa kostnader som krävs för att genomföra och upprätthålla förändringen separat från de konsekvenskostnader som uppstår genom förändringen. Koppla verksamhetsmål till den del av förändringen, effekt eller nytta där kopplingen faktiskt finns.
-
-## Pröva om den visualiserade kedjan håller
-
-Pröva en visualiserad effektkedja genom att läsa den i båda riktningarna. Kontrollera att varje effekt har en rimlig orsak och att varje nytta eller konsekvenskostnad går att härleda till en eller flera effekter.
-
-Undersök om något viktigt beteende eller mellanled saknas, om två lådor beskriver samma sak eller om något har placerats på fel nivå. Effektkedjan behöver inte bevisa ett orsakssamband eller bli en perfekt modell. Den ska göra resonemanget begripligt och möjligt att pröva.
-
-## Exempel på en visualiserad effektkedja
-
-En digital läkemedelslista kan innebära att sjuksköterskor kontrollerar och signerar läkemedelsutdelning digitalt i stället för på papper. Det förändrade beteendet kan leda till färre fel vid läkemedelsutdelningen, vilket kan bidra till ökad patientsäkerhet. Beteendet kan också leda till minskad manuell dokumentation och därmed frigjord tid för sjuksköterskor.
-
-Utbildning och installation är kostnader som krävs för förändringen och visas separat. Risken att fler fel uppstår under inlärningen kan kopplas till de negativa konsekvenser som felen kan få. Bristande internetuppkoppling kan vara ett hinder om den försvårar användningen av den digitala läkemedelslistan.
-
----
-
-<!-- Artikel 29 av 72 | Källa: 5. Värdering/5.1 Välj arbetssätt för värdering.md -->
+<!-- Artikel 28 av 72 | Källa: 5. Värdering/5.1 Välj arbetssätt för värdering.md -->
 
 # 5.1-Valj-arbetssatt-for-vardering
 
@@ -1302,7 +1253,7 @@ Dokumentera vilket arbetssätt du har valt och om en överslagsberäkning komple
 
 ---
 
-<!-- Artikel 30 av 72 | Källa: 5. Värdering/5.2 Välj vad som ska värderas i pengar.md -->
+<!-- Artikel 29 av 72 | Källa: 5. Värdering/5.2 Välj vad som ska värderas i pengar.md -->
 
 # 5.2-Valj-vad-som-ska-varderas-i-pengar
 
@@ -1334,7 +1285,7 @@ Värdera inte samma nytta eller kostnad både i pengar och med poäng.
 
 ---
 
-<!-- Artikel 31 av 72 | Källa: 5. Värdering/5.3 Värdera i pengar i Excelmallen.md -->
+<!-- Artikel 30 av 72 | Källa: 5. Värdering/5.3 Värdera i pengar i Excelmallen.md -->
 
 # 5.3-Vardera-i-pengar-i-Excelmallen
 
@@ -1383,7 +1334,7 @@ Undersök beräkningarna om du vill förstå resultatet närmare eller om något
 
 ---
 
-<!-- Artikel 32 av 72 | Källa: 5. Värdering/5.3.1 Excelguide - Fyll i Start.md -->
+<!-- Artikel 31 av 72 | Källa: 5. Värdering/5.3.1 Excelguide - Fyll i Start.md -->
 
 # 5.3.1-Excelguide-Fyll-i-Start
 
@@ -1405,7 +1356,7 @@ Fyll i de tre delarna i denna ordning:
 
 ---
 
-<!-- Artikel 33 av 72 | Källa: 5. Värdering/5.3.2 Excelguide - Bygg beräkningar i Värde nyttor och Värde kostnader.md -->
+<!-- Artikel 32 av 72 | Källa: 5. Värdering/5.3.2 Excelguide - Bygg beräkningar i Värde nyttor och Värde kostnader.md -->
 
 # 5.3.2-Excelguide-Bygg-berakningar
 
@@ -1443,7 +1394,7 @@ Kontrollera start, upp- eller nedtrappning, full nivå och eventuellt slut. Ange
 
 ---
 
-<!-- Artikel 34 av 72 | Källa: 5. Värdering/5.3.3 Excelguide - För in nyttor och kostnader i Ej värderade.md -->
+<!-- Artikel 33 av 72 | Källa: 5. Värdering/5.3.3 Excelguide - För in nyttor och kostnader i Ej värderade.md -->
 
 # 5.3.3-Excelguide-Ej-varderade
 
@@ -1463,7 +1414,7 @@ Ange **Liten**, **Måttlig** eller **Stor** bara när du eller analysgruppen har
 
 ---
 
-<!-- Artikel 35 av 72 | Källa: 5. Värdering/5.3.4 Excelguide - Uppdatera, kontrollera och tolka resultatet.md -->
+<!-- Artikel 34 av 72 | Källa: 5. Värdering/5.3.4 Excelguide - Uppdatera, kontrollera och tolka resultatet.md -->
 
 # 5.3.4-Excelguide-Uppdatera-kontrollera-och-tolka-resultatet
 
@@ -1521,7 +1472,7 @@ Behåll resultatet och beskriv det neutralt när uppgifterna och beräkningarna 
 
 ---
 
-<!-- Artikel 36 av 72 | Källa: 5. Värdering/5.3.5 Excelguide - Använd osäkerhetsdelen i Excelmallen.md -->
+<!-- Artikel 35 av 72 | Källa: 5. Värdering/5.3.5 Excelguide - Använd osäkerhetsdelen i Excelmallen.md -->
 
 # 5.3.5-Excelguide-Anvand-osakerhetsdelen
 
@@ -1553,7 +1504,7 @@ Tabellen jämför lägst nytta med lägst kostnad, trolig nytta med trolig kostn
 
 ---
 
-<!-- Artikel 37 av 72 | Källa: 5. Värdering/5.4 Uppskatta storleken på nyttor och kostnader med poäng.md -->
+<!-- Artikel 36 av 72 | Källa: 5. Värdering/5.4 Uppskatta storleken på nyttor och kostnader med poäng.md -->
 
 # 5.4-Uppskatta-storleken-med-poang
 
@@ -1601,7 +1552,7 @@ Om vissa nyttor och kostnader redan har värderats i pengar genom en överslagsb
 
 ---
 
-<!-- Artikel 38 av 72 | Källa: 5. Värdering/5.5 Gör en överslagsberäkning i pengar tillsammans med assistenten.md -->
+<!-- Artikel 37 av 72 | Källa: 5. Värdering/5.5 Gör en överslagsberäkning i pengar tillsammans med assistenten.md -->
 
 # 5.5-Gor-en-overslagsberakning-i-pengar
 
@@ -1674,7 +1625,7 @@ Ange att resultaten är odiskonterade och uttryckta i dagens prisnivå. Beskriv 
 
 ---
 
-<!-- Artikel 39 av 72 | Källa: 5. Värdering/Beräkna förändrad sjukfrånvaro.md -->
+<!-- Artikel 38 av 72 | Källa: 5. Värdering/Beräkna förändrad sjukfrånvaro.md -->
 
 # Berakna-forandrad-sjukfranvaro
 
@@ -1712,7 +1663,7 @@ Ta hänsyn till om arbetet ändå utförs av en kollega eller vikarie. Räkna in
 
 ---
 
-<!-- Artikel 40 av 72 | Källa: 5. Värdering/Beräkna förändrade resor och drivmedelskostnader.md -->
+<!-- Artikel 39 av 72 | Källa: 5. Värdering/Beräkna förändrade resor och drivmedelskostnader.md -->
 
 # Berakna-forandrade-resor-och-drivmedelskostnader
 
@@ -1750,7 +1701,7 @@ Lägg inte till drivmedelskostnaden om den redan ingår i en milersättning elle
 
 ---
 
-<!-- Artikel 41 av 72 | Källa: 5. Värdering/Beräkna kostnader vid förändrad personalomsättning.md -->
+<!-- Artikel 40 av 72 | Källa: 5. Värdering/Beräkna kostnader vid förändrad personalomsättning.md -->
 
 # Berakna-kostnader-vid-forandrad-personalomsattning
 
@@ -1794,7 +1745,7 @@ Räkna bara den faktiska skillnaden mellan Alternativ A och Alternativ B.
 
 ---
 
-<!-- Artikel 42 av 72 | Källa: 5. Värdering/Beräkna timkostnad för personal.md -->
+<!-- Artikel 41 av 72 | Källa: 5. Värdering/Beräkna timkostnad för personal.md -->
 
 # Berakna-timkostnad-for-personal
 
@@ -1826,7 +1777,7 @@ Timkostnaden omfattar de delar som anges i källan eller kalkylfaktorn. Lägg in
 
 ---
 
-<!-- Artikel 43 av 72 | Källa: 5. Värdering/Beräkna värdet på invånarens tid.md -->
+<!-- Artikel 42 av 72 | Källa: 5. Värdering/Beräkna värdet på invånarens tid.md -->
 
 # Berakna-vardet-pa-invanarens-tid
 
@@ -1862,7 +1813,7 @@ Skilj också mellan invånarens tid och personalens arbetstid. De kan förändra
 
 ---
 
-<!-- Artikel 44 av 72 | Källa: 5. Värdering/Beräkningsmönster i Excel - kostnader och nyttor över tid.md -->
+<!-- Artikel 43 av 72 | Källa: 5. Värdering/Beräkningsmönster i Excel - kostnader och nyttor över tid.md -->
 
 # Berakningsmonster-i-Excel-kostnader-och-nyttor-over-tid
 
@@ -1913,7 +1864,7 @@ Lägg nyttor eller kostnader som fortsätter efter införandet i separata beräk
 
 ---
 
-<!-- Artikel 45 av 72 | Källa: 5. Värdering/Beräkningsmönster i Excel - personaltid.md -->
+<!-- Artikel 44 av 72 | Källa: 5. Värdering/Beräkningsmönster i Excel - personaltid.md -->
 
 # Berakningsmonster-i-Excel-personaltid
 
@@ -1990,7 +1941,7 @@ Beräkna bara den arbetstid som förändras jämfört med Alternativ A. Lägg en
 
 ---
 
-<!-- Artikel 46 av 72 | Källa: 5. Värdering/Beräkningsmönster i Excel - utgifter och intäkter.md -->
+<!-- Artikel 45 av 72 | Källa: 5. Värdering/Beräkningsmönster i Excel - utgifter och intäkter.md -->
 
 # Berakningsmonster-i-Excel-utgifter-och-intakter
 
@@ -2045,7 +1996,7 @@ Beräkna deltagarnas arbetstid, resor och andra kostnader separat om de också f
 
 ---
 
-<!-- Artikel 47 av 72 | Källa: 5. Värdering/Beräkningsprinciper för värdering i pengar.md -->
+<!-- Artikel 46 av 72 | Källa: 5. Värdering/Beräkningsprinciper för värdering i pengar.md -->
 
 # Berakningsprinciper-for-vardering-i-pengar
 
@@ -2085,7 +2036,7 @@ Redovisa en överslagsberäkning tillsammans med assistenten utan diskontering o
 
 ---
 
-<!-- Artikel 48 av 72 | Källa: 5. Värdering/Ineras kalkylfaktorer.md -->
+<!-- Artikel 47 av 72 | Källa: 5. Värdering/Ineras kalkylfaktorer.md -->
 
 # Ineras-kalkylfaktorer
 
@@ -2169,7 +2120,7 @@ Förbrukningen är en schablon för bilar i småbilsklass. Använd lokala uppgif
 
 ---
 
-<!-- Artikel 49 av 72 | Källa: 5. Värdering/Om data, antaganden och precision.md -->
+<!-- Artikel 48 av 72 | Källa: 5. Värdering/Om data, antaganden och precision.md -->
 
 # Om data, antaganden och precision
 
@@ -2213,7 +2164,7 @@ Dokumentera viktiga osäkra uppgifter och antaganden under värderingen. Använd
 
 ---
 
-<!-- Artikel 50 av 72 | Källa: 6. Osäkerhet/6. Bedöm osäkerheten.md -->
+<!-- Artikel 49 av 72 | Källa: 6. Osäkerhet/6. Bedöm osäkerheten.md -->
 
 # 6. Bedöm osäkerheten
 
@@ -2274,7 +2225,7 @@ I sådana fall visar analysen eller det beräknade resultatet inte hela bilden. 
 
 ---
 
-<!-- Artikel 51 av 72 | Källa: 7. Sammanfattning/7. Sammanfatta och färdigställ nyttoanalysen.md -->
+<!-- Artikel 50 av 72 | Källa: 7. Sammanfattning/7. Sammanfatta och färdigställ nyttoanalysen.md -->
 
 # 7. Sammanfatta och färdigställ nyttoanalysen
 
@@ -2334,7 +2285,7 @@ Du kan ta upp frågor eller be assistenten att revidera vilken del av rapporten 
 
 ---
 
-<!-- Artikel 52 av 72 | Källa: 7. Sammanfattning/Följ upp nyttor när förändringen genomförs.md -->
+<!-- Artikel 51 av 72 | Källa: 7. Sammanfattning/Följ upp nyttor när förändringen genomförs.md -->
 
 # Följ upp nyttor när förändringen genomförs
 
@@ -2366,7 +2317,7 @@ När uppföljningen visar en positiv utveckling ger den samtidigt stöd för att
 
 ---
 
-<!-- Artikel 53 av 72 | Källa: Referensanalyser/Anpassa en referensanalys till din organisation.md -->
+<!-- Artikel 52 av 72 | Källa: Referensanalyser/Anpassa en referensanalys till din organisation.md -->
 
 # Anpassa en referensanalys till din organisation
 
@@ -2442,7 +2393,7 @@ Resultatet är den lokalt ifyllda och sparade Excelmallen samt en kort sammanfat
 
 ---
 
-<!-- Artikel 54 av 72 | Källa: Referensanalyser/Digital nattillsyn i äldreomsorgen.md -->
+<!-- Artikel 53 av 72 | Källa: Referensanalyser/Digital nattillsyn i äldreomsorgen.md -->
 
 # Digital nattillsyn i äldreomsorgen
 
@@ -2623,7 +2574,7 @@ Digital nattillsyn kan ge upphov till finansiella, omfördelnings-, kvalitets- o
 
 ---
 
-<!-- Artikel 55 av 72 | Källa: Referensanalyser/Digitala besök i äldreomsorgen.md -->
+<!-- Artikel 54 av 72 | Källa: Referensanalyser/Digitala besök i äldreomsorgen.md -->
 
 # Digitala besök i äldreomsorgen
 
@@ -2859,7 +2810,7 @@ Digitala besök i hemtjänsten kan ge upphov till finansiella, omfördelnings-, 
 
 ---
 
-<!-- Artikel 56 av 72 | Källa: Referensanalyser/Digitala inköp i äldreomsorgen.md -->
+<!-- Artikel 55 av 72 | Källa: Referensanalyser/Digitala inköp i äldreomsorgen.md -->
 
 # Digitala inköp i äldreomsorgen
 
@@ -3046,7 +2997,7 @@ Denna analys gäller en övergång från fysiska inköp i butik med stöd av hem
 
 ---
 
-<!-- Artikel 57 av 72 | Källa: Referensanalyser/Digitala lås i äldreomsorgen.md -->
+<!-- Artikel 56 av 72 | Källa: Referensanalyser/Digitala lås i äldreomsorgen.md -->
 
 # Digitala lås i äldreomsorgen
 
@@ -3292,7 +3243,7 @@ Någon värdering i pengar har inte gjorts i denna referensanalys, och kommuner 
 
 ---
 
-<!-- Artikel 58 av 72 | Källa: Referensanalyser/Excelguide – digital nattillsyn.md -->
+<!-- Artikel 57 av 72 | Källa: Referensanalyser/Excelguide – digital nattillsyn.md -->
 
 # Excelguide – digital nattillsyn
 
@@ -3434,7 +3385,7 @@ Följ den gemensamma regeln för att förklara resultatet. Använd stödet nedan
 
 ---
 
-<!-- Artikel 59 av 72 | Källa: Referensanalyser/Excelguide – digitala besök.md -->
+<!-- Artikel 58 av 72 | Källa: Referensanalyser/Excelguide – digitala besök.md -->
 
 # Excelguide – digitala besök
 
@@ -3603,7 +3554,7 @@ Syfte: Beskriva Excelmallens fältlogik, fältordning, analysspecifika kunskap o
 
 ---
 
-<!-- Artikel 60 av 72 | Källa: Referensanalyser/Excelguide – digitala inköp.md -->
+<!-- Artikel 59 av 72 | Källa: Referensanalyser/Excelguide – digitala inköp.md -->
 
 # Excelguide – digitala inköp
 
@@ -3739,7 +3690,7 @@ Följ den gemensamma regeln för att förklara resultatet. Använd stödet nedan
 
 ---
 
-<!-- Artikel 61 av 72 | Källa: Referensanalyser/Excelguide – Digitala lås.md -->
+<!-- Artikel 60 av 72 | Källa: Referensanalyser/Excelguide – Digitala lås.md -->
 
 # Excelguide - digitala lås
 
@@ -3905,7 +3856,7 @@ Följ den gemensamma regeln för att förklara resultatet. Använd stödet nedan
 
 ---
 
-<!-- Artikel 62 av 72 | Källa: Referensanalyser/Excelguide – läkemedelsautomater.md -->
+<!-- Artikel 61 av 72 | Källa: Referensanalyser/Excelguide – läkemedelsautomater.md -->
 
 # Excelguide – läkemedelsautomater
 
@@ -4055,7 +4006,7 @@ Följ den gemensamma regeln för att förklara resultatet. Använd stödet nedan
 
 ---
 
-<!-- Artikel 63 av 72 | Källa: Referensanalyser/Excelguide – mobila trygghetslarm.md -->
+<!-- Artikel 62 av 72 | Källa: Referensanalyser/Excelguide – mobila trygghetslarm.md -->
 
 # Excelguide – mobila trygghetslarm
 
@@ -4216,7 +4167,7 @@ Följ den gemensamma regeln för att förklara resultatet. Använd stödet nedan
 
 ---
 
-<!-- Artikel 64 av 72 | Källa: Referensanalyser/Excelguider - gemensamma regler.md -->
+<!-- Artikel 63 av 72 | Källa: Referensanalyser/Excelguider - gemensamma regler.md -->
 
 # Excelguider - gemensamma regler
 
@@ -4535,7 +4486,7 @@ Om skillnaden påverkar analysens centrala nyttor, kostnader eller beräkningar 
 
 ---
 
-<!-- Artikel 65 av 72 | Källa: Referensanalyser/Läkemedelsautomater i äldreomsorgen.md -->
+<!-- Artikel 64 av 72 | Källa: Referensanalyser/Läkemedelsautomater i äldreomsorgen.md -->
 
 # Läkemedelsautomater i äldreomsorgen
 
@@ -4768,7 +4719,7 @@ Denna analys gäller införande av läkemedelsautomater i äldreomsorgen och jä
 
 ---
 
-<!-- Artikel 66 av 72 | Källa: Referensanalyser/Mobila trygghetslarm i äldreomsorgen.md -->
+<!-- Artikel 65 av 72 | Källa: Referensanalyser/Mobila trygghetslarm i äldreomsorgen.md -->
 
 # Mobila trygghetslarm i äldreomsorgen
 
@@ -5018,7 +4969,7 @@ Denna referensanalys gäller införande av mobila trygghetslarm och jämför ett
 
 ---
 
-<!-- Artikel 67 av 72 | Källa: Valfritt stöd och fördjupning/Ordlista - Alternativ A, Alternativ B, förändring och effektkedja.md -->
+<!-- Artikel 66 av 72 | Källa: Valfritt stöd och fördjupning/Ordlista - Alternativ A, Alternativ B, förändring och effektkedja.md -->
 
 # Ordlista: Alternativ A, Alternativ B, förändring och effektkedja
 
@@ -5040,7 +4991,7 @@ Begreppet effektkedja används för det visuella diagrammet. När sambanden besk
 
 ---
 
-<!-- Artikel 68 av 72 | Källa: Valfritt stöd och fördjupning/Ordlista - mål, risk, hinder, möjlighet, indikator och osäkerhetsanalys.md -->
+<!-- Artikel 67 av 72 | Källa: Valfritt stöd och fördjupning/Ordlista - mål, risk, hinder, möjlighet, indikator och osäkerhetsanalys.md -->
 
 # Ordlista: mål, risk, hinder, möjlighet, indikator och osäkerhetsanalys
 
@@ -5070,7 +5021,7 @@ En **osäkerhetsanalys** bedömer var i nyttoanalysen osäkerheten är störst o
 
 ---
 
-<!-- Artikel 69 av 72 | Källa: Valfritt stöd och fördjupning/Ordlista - nyttoanalys, effekt, nytta, kostnad, perspektiv och nyttorealisering.md -->
+<!-- Artikel 68 av 72 | Källa: Valfritt stöd och fördjupning/Ordlista - nyttoanalys, effekt, nytta, kostnad, perspektiv och nyttorealisering.md -->
 
 # Ordlista: nyttoanalys, effekt, nytta, kostnad, perspektiv och nyttorealisering
 
@@ -5126,7 +5077,7 @@ En **intressent** är en individ, grupp eller organisation som påverkas av elle
 
 ---
 
-<!-- Artikel 70 av 72 | Källa: Valfritt stöd och fördjupning/Ordlista - uppskattad storlek, värderad i pengar, diskontering, ackumulerad och nettonytta.md -->
+<!-- Artikel 69 av 72 | Källa: Valfritt stöd och fördjupning/Ordlista - uppskattad storlek, värderad i pengar, diskontering, ackumulerad och nettonytta.md -->
 
 # Ordlista: uppskattad storlek, värderad i pengar, diskontering, ackumulerad och nettonytta
 
@@ -5166,7 +5117,7 @@ När måttet beskrivs i relation till en satsad krona används uttrycket **netto
 
 ---
 
-<!-- Artikel 71 av 72 | Källa: Valfritt stöd och fördjupning/Terminologiska riktlinjer för nyttoanalysen.md -->
+<!-- Artikel 70 av 72 | Källa: Valfritt stöd och fördjupning/Terminologiska riktlinjer för nyttoanalysen.md -->
 
 # Terminologiska riktlinjer för nyttoanalysen
 
@@ -5225,7 +5176,7 @@ När måttet beskrivs i relation till en satsad krona används uttrycket **netto
 
 ---
 
-<!-- Artikel 72 av 72 | Källa: Valfritt stöd och fördjupning/Vad en referensanalys är och när den passar.md -->
+<!-- Artikel 71 av 72 | Källa: Valfritt stöd och fördjupning/Vad en referensanalys är och när den passar.md -->
 
 # Vad en referensanalys är och när den passar
 
@@ -5260,3 +5211,52 @@ Den lokala anpassningen innebär inte att assistenten skriver en ny rapport. Arb
 Börja från grunden om referensanalysens nuläge inte liknar ert, om den planerade förändringen är en annan eller om analysen gäller en annan del av verksamheten. Detsamma gäller om ni behöver ändra så mycket i den befintliga analysen att den inte längre ger någon tydlig hjälp.
 
 Utgå då direkt från det nuläge och den förändring som ni faktiskt vill analysera.
+
+---
+
+<!-- Artikel 72 av 72 | Källa: Valfritt stöd och fördjupning/Visualisera samband med en effektkedja.md -->
+
+# Visualisera samband med en effektkedja
+
+# Visualisera samband med en effektkedja
+
+## Visualisera när du själv vill reda ut sambanden
+
+En visualiserad effektkedja är ett frivilligt stöd och ingår inte i den normala arbetsgången. Använd den när du själv vill rita upp samband, upptäcka luckor eller förklara analysen för andra. Om du uttryckligen ber om det kan assistenten hjälpa dig att strukturera innehållet i visualiseringen.
+
+## Välj vad som ska ingå i visualiseringen
+
+I en visualiserad effektkedja tar du med de delar som behövs för frågan du undersöker. Det kan vara:
+
+- en komponent eller annan del av förändringen
+- ett beteende
+- en effekt
+- en nytta eller konsekvenskostnad
+- en risk, ett hinder eller en möjlighet
+- ett verksamhetsmål
+
+Låt varje låda innehålla en sak. Dela upp formuleringar som blandar flera komponenter, beteenden eller effekter. Ange vem som berörs när det behövs för att förstå effekten, nyttan eller kostnaden.
+
+## Rita pilar mellan orsak och verkan
+
+I en visualiserad effektkedja använder du pilar för att visa de samband du vill pröva. En del av förändringen kan leda till ett beteende eller en effekt. Ett beteende kan leda till en eller flera effekter, och flera effekter kan tillsammans leda till samma nytta eller konsekvenskostnad.
+
+En del kan kopplas till flera andra delar när det finns tydliga orsakssamband. Om kedjan hoppar direkt från en del av förändringen till en övergripande nytta kan ett beteende eller en mellanliggande effekt saknas.
+
+## Visa risker, hinder, möjligheter och olika kostnader separat
+
+I en visualiserad effektkedja visar du en risk som en möjlig negativ händelse och kopplar den till den negativa konsekvens som kan uppstå. Visa ett hinder genom vad det kan försvåra eller förhindra. Visa en möjlighet tillsammans med det ytterligare beslut eller den resursinsats som krävs för att den ska bli verklig.
+
+Visa kostnader som krävs för att genomföra och upprätthålla förändringen separat från de konsekvenskostnader som uppstår genom förändringen. Koppla verksamhetsmål till den del av förändringen, effekt eller nytta där kopplingen faktiskt finns.
+
+## Pröva om den visualiserade kedjan håller
+
+Pröva en visualiserad effektkedja genom att läsa den i båda riktningarna. Kontrollera att varje effekt har en rimlig orsak och att varje nytta eller konsekvenskostnad går att härleda till en eller flera effekter.
+
+Undersök om något viktigt beteende eller mellanled saknas, om två lådor beskriver samma sak eller om något har placerats på fel nivå. Effektkedjan behöver inte bevisa ett orsakssamband eller bli en perfekt modell. Den ska göra resonemanget begripligt och möjligt att pröva.
+
+## Exempel på en visualiserad effektkedja
+
+En digital läkemedelslista kan innebära att sjuksköterskor kontrollerar och signerar läkemedelsutdelning digitalt i stället för på papper. Det förändrade beteendet kan leda till färre fel vid läkemedelsutdelningen, vilket kan bidra till ökad patientsäkerhet. Beteendet kan också leda till minskad manuell dokumentation och därmed frigjord tid för sjuksköterskor.
+
+Utbildning och installation är kostnader som krävs för förändringen och visas separat. Risken att fler fel uppstår under inlärningen kan kopplas till de negativa konsekvenser som felen kan få. Bristande internetuppkoppling kan vara ett hinder om den försvårar användningen av den digitala läkemedelslistan.
