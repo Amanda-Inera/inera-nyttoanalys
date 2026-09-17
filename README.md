@@ -16,7 +16,7 @@ Kunskapsbasen består av textfiler i formatet Markdown (`.md`). Textfilerna är 
 
 **Läsa i webbläsaren:** klicka på mapparna och sedan på de olika textfilerna. GitHub visar dem som vanliga webbsidor.
 
-**Använda din egen AI: **ladda ner filen KB06-samlad.md och ladda upp den till din AI. Då får AI:n hela kunskapsbasen i en enda fil. Du kan också prova att ge AI:n länken till GitHub-sidan eller till en enskild artikel, men olika AI-tjänster har olika möjligheter att läsa innehåll direkt från GitHub.
+**Använda din egen AI:** ladda ner filen KB06-samlad.md och ladda upp den till din AI. Då får AI:n hela kunskapsbasen i en enda fil. Du kan också prova att ge AI:n länken till GitHub-sidan eller till en enskild artikel, men olika AI-tjänster har olika möjligheter att läsa innehåll direkt från GitHub.
 
 **Ladda ner till din dator:** öppna KB06-samlad.md och klicka på nedladdningssymbolen i rubrikraden. Om du vill ha alla filer var för sig kan du i stället klicka på den gröna knappen Code och välja Download ZIP.
 
