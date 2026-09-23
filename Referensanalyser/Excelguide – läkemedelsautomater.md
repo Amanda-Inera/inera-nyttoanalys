@@ -30,7 +30,7 @@ Den största värderade nyttan är ofta frigjord personaltid, medan den finansie
 
 ## 2. Fältguide
 
-Följ den gemensamma guidens regler för status, guidningsordning, källor, periodgenomsnitt och hantering av grå fält. Tomma reservblock för egna nyttor och kostnader ingår inte i den ordinarie guidningen.
+Följ den gemensamma guidens regler för status, guidningsordning, källor, periodgenomsnitt och hantering av grå fält. 
 
 ### Flik: Nyttokalkyl start
 
@@ -79,6 +79,18 @@ Följ den gemensamma guidens regler för status, guidningsordning, källor, peri
 | 5. Frigjord tid för omvårdnadspersonal – färre besök (med annat färdsätt än bil) | Andel besök som inte görs med bil | Grått | Förklara vid behov – ingen inmatning | Beräknas som återstående andel efter den andel som görs med bil. | — |
 | 5. Frigjord tid för omvårdnadspersonal – färre besök (med annat färdsätt än bil) | Hur lång tid tar resan i snitt per besök som inte görs med bil (min)? | Vitt (tomt) | Ta fram lokalt – uppskatta försiktigt vid behov | Ange restiden för de relevanta besök som görs med andra färdsätt än bil. Vid osäkerhet kan assistenten berätta att SKR Kompetenscenter har sett 5–10 minuter i analyser av korta gång- eller cykelresor. Om sådana besök inte förekommer ska det framgå av andelen som görs med bil och värdet ska inte användas för att skapa en extra nytta. | Kontrollera att samma resa inte redan ingår i bilblocket och att tiden inte avser hela arbetspasset eller rutten. Blanda inte in ovanliga specialfall i ett vanligt genomsnitt. |
 | 5. Frigjord tid för omvårdnadspersonal – färre besök (med annat färdsätt än bil) | Hur lång tid tar ett besök i snitt, exklusive restiden? (min); Total tidsåtgång per besök som inte görs med bil i snitt (min); Antal undvikbara besök som inte görs med bil; Tidsåtgång per år (timmar); Timkostnad undersköterska, hemtjänst, hemsjukvård och äldreboende (kr); Årlig nytta (kr) | Grått | Förklara vid behov – ingen inmatning | Besökstiden hämtas från blocket för färre besök med bil. Övriga värden hämtas eller beräknas av mallen. | Vid oväntad total nytta: kontrollera att bilresor och andra färdsätt tillsammans motsvarar besöksvolymen utan överlapp. |
+
+#### Frivilligt block: <Övrig tid som kan frigöras>
+
+Använd det här blocket om kommunen har frigjord tid som inte täcks av blocken ovan, till exempel resor med färja eller något annat färdsätt. Om ni inte har ett sådant specialfall kan ni hoppa över blocket.
+
+| **Block / underblock** | **Fält eller värde** | **Status** | **Guidningsordning** | **Analysspecifikt stöd** | **Kontrolltrigger** |
+| --- | --- | --- | --- | --- | --- |
+| 6. <Övrig tid som kan frigöras> | <Antal resor per år som ni kan ta bort med färdsätt X> | Vitt (tomt) | Ta fram lokalt – uppskatta försiktigt vid behov | Ersätt fältet med text för eventuellt extra färdsätt.  | — |
+| 6. <Övrig tid som kan frigöras> | <Tidsåtgång per resa i snitt> | Vitt (tomt) | Ta fram lokalt – uppskatta försiktigt vid behov | Uppskatta tidsåtgång per resa i snitt för det valda färdsättet. OBS: skriv det i timmar och inte minuter. | — |
+| 6. <Övrig tid som kan frigöras> | <Timkostnad per resa i snitt, kr> | Vitt (tomt) | Ta fram lokalt – uppskatta försiktigt vid behov | Om det är samma som i tidigare beräkningar, skriv samma värde. | — |
+| 6. <Övrig tid som kan frigöras> | Årlig nytta (KR) | Vitt (tomt) | Fyll i med formel | Skriv formeln = [cellen med troligt antal resor] * [cellen med trolig tidsåtgång per resa i snitt] * [cellen med trolig timkostnad per resa i snitt] |  |
+
 
 ### Flik: Räkna på kostnader
 
