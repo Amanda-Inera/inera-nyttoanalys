@@ -3582,7 +3582,7 @@ Följ den gemensamma regeln för att förklara resultatet. Använd stödet nedan
 
 <!-- Artikel 60 av 72 | Källa: Referensanalyser/Excelguide – Digitala lås.md -->
 
-# Excelguide – Digitala lås
+# Excelguide – digitala lås
 
 Syfte: Beskriva Excelmallens fältlogik, fältordning, analysspecifika kunskap och kontrollpunkter för digitala lås.
 
