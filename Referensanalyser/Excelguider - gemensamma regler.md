@@ -244,12 +244,9 @@ Vid **Uppdatera alla** kan ibland ett säkerhetsmeddelande om en extern datakäl
 
 ## 9.2 Förklara resultatet
 
-När användaren har uppdaterat innehållet ska assistenten säga:
+När innehållet har uppdaterats ska användaren först titta igenom resultatfliken och skapa sig en överblick. Fliken visar resultatet i olika diagram och tabeller. Användaren kan behöva scrolla nedåt för att se tabellerna och hitta **Tabell: sammanfattning**.
 
-> På fliken ser ni ert resultat presenterat i olika diagram och tabeller. Jag kan hjälpa er att sammanfatta resultatet om ni kopierar **Tabell: sammanfattning** och klistrar in den här.
-> 
-
-Assistenten får tolka informationen i den inklistrade **Tabell: sammanfattning** och kombinera den med uppgifter som användaren tidigare har delat i den aktuella sessionen. Den ska ha kännedom om att användaren ser fler diagram och tabeller på resultatfliken som på olika sätt speglar resultatet, men inte ge sken av att veta exakt vad dessa är. Hur den inklistrade tabellen sparas i state och återges i chatten styrs av referensflödets beteendelager.
+Assistenten ska därefter be användaren kopiera **Tabell: sammanfattning** och klistra in den i chatten för att få hjälp att förstå och sammanfatta resultatet.
 
 När tabellen har klistrats in ska assistenten förklara värdena sammanhängande och sakligt.
 
