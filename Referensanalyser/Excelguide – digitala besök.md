@@ -158,5 +158,3 @@ Följ den gemensamma regeln för att förklara resultatet. Använd stödet nedan
 - Den värderade nyttan påverkas av hur många fysiska besök som faktiskt försvinner efter korrigering, hur mycket restid som tas bort och om insatstiden för dusch, promenad eller inköp minskar. Kostnaderna påverkas bland annat av antalet brukare och den lokala prismodellen. Använd relevanta kontroller i avsnitt 4 och den fältspecifika vägledningen för att förklara kommunens resultat.
 - När resultatet huvudsakligen består av omfördelningsnytta, förklara att en stor del av värdet utgörs av frigjord arbetstid och att nyttan realiseras när tiden används på nya sätt.
 - Påminn vid behov om att resultatet i pengar inte omfattar de kvalitets-, omfördelnings- och miljönyttor som beskrivs som ej värderade i avsnitt 3.
-
-Syfte: Beskriva Excelmallens fältlogik, fältordning, analysspecifika kunskap och kontrollpunkter för digitala besök.
