@@ -3442,8 +3442,6 @@ Följ den gemensamma regeln för att förklara resultatet. Använd stödet nedan
 - När resultatet huvudsakligen består av omfördelningsnytta, förklara att en stor del av värdet utgörs av frigjord arbetstid och att nyttan realiseras när tiden används på nya sätt.
 - Påminn vid behov om att resultatet i pengar inte omfattar de kvalitets-, omfördelnings- och miljönyttor som beskrivs som ej värderade i avsnitt 3.
 
-Syfte: Beskriva Excelmallens fältlogik, fältordning, analysspecifika kunskap och kontrollpunkter för digitala besök.
-
 ---
 
 <!-- Artikel 59 av 72 | Källa: Referensanalyser/Excelguide – digitala inköp.md -->
