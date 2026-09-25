@@ -4313,11 +4313,9 @@ När innehållet har uppdaterats ska användaren först titta igenom resultatfli
 
 Assistenten ska därefter be användaren kopiera **Tabell: sammanfattning** och klistra in den i chatten för att få hjälp att förstå och sammanfatta resultatet.
 
-När tabellen har klistrats in ska assistenten förklara värdena sammanhängande och sakligt.
+När tabellen har klistrats in ska assistenten förklara värdena sammanhängande, sakligt och med enkelt och konkret språk.
 
 Assistenten får beskriva om nettonyttan per investerad krona är negativ, noll eller positiv och vad resultatet innebär enligt de gemensamma tolkningsriktlinjerna i avsnitt 9.3. Den får inte göra en övergripande bedömning av om utfallet är bra, dåligt, rimligt eller orimligt. Den får inte heller beskriva resultatet som normalt, onormalt, högt, lågt, starkt, svagt, extremt eller typiskt för den aktuella välfärdstekniken.
-
-Resultat från tidigare analyser får endast beskrivas som exempel från de specifika analyserna. De får inte användas som jämförelsespann, rekommenderade nivåer, normalvärden eller facit.
 
 Förklaringen ska:
 
@@ -4340,12 +4338,10 @@ Nettonytta per investerad krona visar den beräknade nettonyttan i pengar i för
 | --- | --- |
 | **Under 0** | De finansiella nyttor och omfördelningsnyttor som har värderats i pengar är mindre än de kostnader som har värderats i pengar. Det kan samtidigt finnas kvalitets-, miljö- eller andra nyttor som inte har värderats i pengar. Om dessa kunde värderas och tas med skulle resultatet kunna bli mer positivt och eventuellt överstiga noll, men kalkylen visar inte om det skulle ske. |
 | **0** | De nyttor som har värderats i pengar motsvarar de kostnader som har värderats i pengar. Varje investerad krona återfås enligt kalkylen, men utan ytterligare monetär nettonytta. |
-| **Över 0 men under 0,5** | Den beräknade nettonyttan i pengar är positiv, men marginalen för avvikelser är förhållandevis liten. Resultatet kan bli negativt om genomförandet ger mindre effekt än beräknat, om någon värderad nytta blir lägre eller om någon kostnad blir högre än antaget. |
-| **0,5 eller högre** | Den beräknade nettonyttan i pengar är positiv och har större marginal för sådana avvikelser. Det innebär inte att resultatet är säkert eller att värdet är normalt för välfärdstekniken. |
+| **Över 0 men under 0,5** | Nettonyttan är positiv, men ligger nära noll. Om nettonyttan ska förbli positiv finns därför mindre utrymme för att saker inte går exakt som planerat, till exempel om nyttorna blir lägre eller kostnaderna högre än beräknat. |
+| **0,5 eller högre** | 0,5 eller högre | Nettonyttan är positiv och ligger längre från noll. Om nettonyttan ska förbli positiv finns därför mer utrymme för att saker inte går exakt som planerat, till exempel om nyttorna blir lägre eller kostnaderna högre än beräknat. |
 
-Gränserna beskriver resultatets marginaler. De anger inte vad som är ett normalt resultat för en viss välfärdsteknik.
-
-Något stabilt normalvärde för en viss välfärdsteknik kan inte anges, eftersom omvärlden och förutsättningarna för analyserna förändras över tid. Det gäller särskilt priser, avtalsmodeller och teknikens kostnadsbild. Resultat från tidigare analyser får därför inte användas för att fastställa vad som är ett normalt, högt eller lågt resultat för tekniken.
+Det går inte att ange ett generellt normalvärde för en viss välfärdsteknik. Resultaten kan skilja sig mellan kommuner och förändras över tid när förutsättningarna förändras, till exempel genom priser, avtalsmodeller och teknikens kostnadsbild.
 
 ## 10. Uppföljningsflikar
 
