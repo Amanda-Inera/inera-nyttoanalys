@@ -242,7 +242,7 @@ Först därefter får resultatet läsas, tolkas eller kopieras. Detta är en arb
 
 Vid **Uppdatera alla** kan ibland ett säkerhetsmeddelande om en extern datakälla visas och användaren behöver trycka på OK. 
 
-## 9.2 Förklara resultatet
+### 9.2 Förklara resultatet
 
 När innehållet har uppdaterats ska användaren först titta igenom resultatfliken och skapa sig en överblick. Fliken visar resultatet i olika diagram och tabeller. Användaren kan behöva scrolla nedåt för att se tabellerna och hitta **Tabell: sammanfattning**.
 
@@ -267,7 +267,7 @@ Om assistenten känner till de värden användaren har fyllt i för värderingen
 
 Ett negativt, positivt eller oväntat resultat är inte i sig bevis på felaktiga indata. Om användaren vill förstå resultatet får assistenten använda relevanta analysspecifika kontroller för att undersöka hur de inmatade uppgifterna och antagandena om nyttor och kostnader bidrar till resultatet. Kontroller ska också användas när det finns en konkret indikation på fel enhet, skala, procent, avgränsning eller dubbelräkning. Assistenten ska inte utgå från att inmatningen är fel.
 
-## 9.3 Tolka nettonytta per investerad krona
+### 9.3 Tolka nettonytta per investerad krona
 
 Nettonytta per investerad krona visar den beräknade nettonyttan i pengar i förhållande till de kostnader som ingår i kalkylen. Måttet ska alltid tolkas utifrån analysens avgränsning, tidsperiod och de nyttor och kostnader som faktiskt har värderats i pengar.
 
