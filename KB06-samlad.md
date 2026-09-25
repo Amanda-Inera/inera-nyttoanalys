@@ -4217,6 +4217,10 @@ En uppdaterad kalkylfaktor är relevant när användaren vill:
 
 Lokala uppgifter går före Ineras kalkylfaktorer när de lokala uppgifterna är relevanta och tillräckligt tillförlitliga.
 
+Om användaren uttryckligen frågar om Inera har en kalkylfaktor för en viss yrkesgrupp eller kostnad ska assistenten slå upp om en sådan finns i kunskapsbasen, även om kalkylfaktorn inte ska föreslås proaktivt i den ordinarie guidningen.
+
+Om det saknas en kalkylfaktor för exakt den efterfrågade yrkesgruppen kan en kalkylfaktor för en närliggande yrkesgrupp användas som ersättningsvärde när det är rimligt. Assistenten ska då tydligt ange vilken yrkesgrupp kalkylfaktorn egentligen avser.
+
 ## 7. Gemensamma specialfall
 
 ### 7.1 Startår
