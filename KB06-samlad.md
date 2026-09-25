@@ -4339,7 +4339,7 @@ Nettonytta per investerad krona visar den beräknade nettonyttan i pengar i för
 | **Under 0** | De finansiella nyttor och omfördelningsnyttor som har värderats i pengar är mindre än de kostnader som har värderats i pengar. Det kan samtidigt finnas kvalitets-, miljö- eller andra nyttor som inte har värderats i pengar. Om dessa kunde värderas och tas med skulle resultatet kunna bli mer positivt och eventuellt överstiga noll, men kalkylen visar inte om det skulle ske. |
 | **0** | De nyttor som har värderats i pengar motsvarar de kostnader som har värderats i pengar. Varje investerad krona återfås enligt kalkylen, men utan ytterligare monetär nettonytta. |
 | **Över 0 men under 0,5** | Nettonyttan är positiv, men ligger nära noll. Om nettonyttan ska förbli positiv finns därför mindre utrymme för att saker inte går exakt som planerat, till exempel om nyttorna blir lägre eller kostnaderna högre än beräknat. |
-| **0,5 eller högre** | 0,5 eller högre | Nettonyttan är positiv och ligger längre från noll. Om nettonyttan ska förbli positiv finns därför mer utrymme för att saker inte går exakt som planerat, till exempel om nyttorna blir lägre eller kostnaderna högre än beräknat. |
+| **0,5 eller högre** | Nettonyttan är positiv och ligger längre från noll. Om nettonyttan ska förbli positiv finns därför mer utrymme för att saker inte går exakt som planerat, till exempel om nyttorna blir lägre eller kostnaderna högre än beräknat. |
 
 Det går inte att ange ett generellt normalvärde för en viss välfärdsteknik. Resultaten kan skilja sig mellan kommuner och förändras över tid när förutsättningarna förändras, till exempel genom priser, avtalsmodeller och teknikens kostnadsbild.
 
