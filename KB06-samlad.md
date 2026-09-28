@@ -3828,15 +3828,15 @@ Följ den gemensamma guidens regler för status, guidningsordning, källor, peri
 
 #### Frivilligt block: <Övrig tid som kan frigöras>
 
-Använd det här blocket om kommunen har frigjord tid som inte täcks av blocken ovan, till exempel resor med färja eller något annat färdsätt. Om ni inte har ett sådant specialfall kan ni hoppa över blocket.
+Använd det här blocket om kommunen har frigjord tid som inte täcks av blocken ovan, till exempel resor med färja eller något annat färdsätt. Om kommunen inte har ett sådant specialfall kan blocket hoppas över.
 
 | **Block / underblock** | **Fält eller värde** | **Status** | **Guidningsordning** | **Analysspecifikt stöd** | **Kontrolltrigger** |
 | --- | --- | --- | --- | --- | --- |
-| 6. <Övrig tid som kan frigöras> | <Antal resor per år som ni kan ta bort med färdsätt X> | Vitt (tomt) | Ta fram lokalt – uppskatta försiktigt vid behov | Ersätt fältet med text för eventuellt extra färdsätt.  | — |
-| 6. <Övrig tid som kan frigöras> | <Tidsåtgång per resa i snitt> | Vitt (tomt) | Ta fram lokalt – uppskatta försiktigt vid behov | Uppskatta tidsåtgång per resa i snitt för det valda färdsättet. OBS: skriv det i timmar och inte minuter. | — |
-| 6. <Övrig tid som kan frigöras> | <Timkostnad per resa i snitt, kr> | Vitt (tomt) | Ta fram lokalt – uppskatta försiktigt vid behov | Om det är samma som i tidigare beräkningar, skriv samma värde. | — |
-| 6. <Övrig tid som kan frigöras> | Årlig nytta (KR) | Vitt (tomt) | Fyll i med formel | Skriv formeln = [cellen med troligt antal resor] * [cellen med trolig tidsåtgång per resa i snitt] * [cellen med trolig timkostnad per resa i snitt] |  |
-
+| 6. <Övrig tid som kan frigöras> | <Övrig tid som kan frigöras> | Vitt (tomt) | Ta fram lokalt – inget ersättningsvärde | Ersätt platshållaren med en kort benämning på den frigjorda tiden, till exempel `Resor med färja`. | — |
+| 6. <Övrig tid som kan frigöras> | <Antal resor per år som ni kan ta bort med färdsätt X> | Vitt (tomt) | Ta fram lokalt – uppskatta försiktigt vid behov | Uppskatta antal resor per år som kan tas bort för det valda färdsättet. | Kontrollera att resorna inte redan ingår i något av blocken ovan. |
+| 6. <Övrig tid som kan frigöras> | <Tidsåtgång per resa i snitt> | Vitt (tomt) | Ta fram lokalt – uppskatta försiktigt vid behov | Uppskatta tidsåtgång per resa i snitt för det valda färdsättet. Ange tiden i timmar, inte minuter. | — |
+| 6. <Övrig tid som kan frigöras> | <Timkostnad per resa i snitt, kr> | Vitt (tomt) | Ta fram lokalt – annars använd en av Ineras kalkylfaktorer | Använd timkostnaden för den personalgrupp vars restid frigörs. Om samma personalgrupp förekommer i tidigare beräkningar kan samma värde användas. | — |
+| 6. <Övrig tid som kan frigöras> | Årlig nytta (KR) | Vitt (tomt) | Fyll i med formel | Mallen innehåller ingen färdig formel. Skriv formeln =[cellen med antal resor]*[cellen med tidsåtgång per resa]*[cellen med timkostnad per resa]. När formeln är inskriven räknar Excel ut den årliga nyttan. Om användaren återger det beräknade resultatet är det en avläsning från mallen och ska inte skrivas in igen eller ersätta formeln. |
 
 ### Flik: Räkna på kostnader
 
