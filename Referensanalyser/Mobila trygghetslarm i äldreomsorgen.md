@@ -132,7 +132,7 @@ Genom att införa mobila trygghetslarm ges brukaren möjlighet att vara mer akti
 
 [Omfördelning] [Kommunen]
 
-Genom att införa digitala besök kan det bli lättare att rekrytera personal då det inte krävs körkort för att arbeta med digitala besök. Dessutom förbättras arbetsmiljön då stressen för att hinna till alla besök minskar. Det leder sammantaget till en förbättrad arbetsmiljö och ökar möjligheten för att personalomsättningen minskar.
+Genom att införa mobila trygghetslarm kan behovet av bilresor minska när brukare klarar promenad, ledsagning och inköp på egen hand. Det kan skapa större möjligheter att rekrytera personal utan körkort till arbetsuppgifter som inte kräver bilresor. Dessutom kan arbetsmiljön förbättras när stressen för att hinna till alla besök minskar. Sammantaget kan detta göra det lättare att rekrytera och behålla personal och därmed förbättra kommunens möjlighet till kompetensförsörjning.
 
 **Minskad kostnad för fordonsflotta**
 
