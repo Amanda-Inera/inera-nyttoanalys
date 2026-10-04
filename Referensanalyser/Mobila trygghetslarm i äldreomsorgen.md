@@ -190,14 +190,13 @@ Inga kostnader som förväntas som en konsekvens av förändringen har identifie
 **Engångskostnader**
 
 - Införandekostnader till leverantören [Finansiell] [Kommunen]
-- Kostnad för hårdvara (surfplatta med tillbehör) [Finansiell] [Kommunen]
 - Förändringsledning under införande [Omfördelning] [Kommunen]
 - Utbildning av personal [Omfördelning] [Kommunen]
 - Information och utbildning till brukare [Omfördelning] [Kommunen]
 
 **Löpande kostnader**
 
-- Pris för plattform och licenser [Finansiell] [Kommunen]
+- Kostnad för mobila trygghetslarm, inklusive utrustning och tjänster enligt avtal [Finansiell] [Kommunen]
 - Kommunens kostnader för drift, support med mera [Omfördelning] [Kommunen]
 
 ### 4.3 Risker
