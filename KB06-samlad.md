@@ -4201,9 +4201,11 @@ För grå fält ska användaren inte fylla i någon källa.
 
 ### 6.3 Ett värde för flera år
 
-Om mallen bara har ett inmatningsfält för ett antagande som förändras över tid ska ett rimligt och försiktigt genomsnitt för hela analysperioden användas. En möjlig nivå mot slutet av perioden ska inte automatiskt användas som genomsnitt för samtliga år.
+Om mallen bara har ett inmatningsfält för ett antagande som förändras över tid används normalt ett rimligt och försiktigt genomsnitt för hela analysperioden. En möjlig nivå mot slutet av perioden ska inte automatiskt användas som genomsnitt för samtliga år.
 
-Genomsnittet kan bedömas genom att jämföra en rimlig nivå i början av perioden med en rimlig nivå mot slutet.
+Om användaren själv tar upp att en nytta eller kostnad börjar senare, upphör tidigare eller varierar mellan åren kan blockets årsvisa faktorrad användas för att anpassa fördelningen över tid. Se avsnitt 8.2.
+
+Inmatningsvärdena och faktorraden behöver då stämma överens. Samma tidsvariation ska inte räknas in både i ett periodgenomsnitt och i faktorraden.
 
 ### 6.4 Ineras kalkylfaktorer för timkostnader och drivmedel
 
@@ -4269,7 +4271,7 @@ Ett pris kontrolleras genom att undersöka:
 
 Om priset behöver uppskattas ska det framgå i **Källa** vad uppskattningen bygger på. Guiden ger inte generella riktvärden för lokala leverantörspriser.
 
-## 8. Gemensamma grå fält utanför den ordinarie inmatningen
+## 8. Gemensamma fält utanför den ordinarie inmatningen
 
 ### 8.1 Osäkerhetsvariationer och lägst/högst
 
@@ -4281,9 +4283,23 @@ Om de inbyggda variationerna behöver ändras krävs en anpassad mall eller en a
 
 ### 8.2 Årsvisa faktorrader
 
-Årsvisa faktorrader styr hur nyttor och kostnader fördelas över analysperioden. De är förifyllda av SKR Kompetenscenter välfärdsteknik och ingår inte i den ordinarie inmatningen.
+Under årstabellen till höger i varje beräkningsblock finns raden **Faktor**. De är normalt vita när värdet är `1`. Värden som avviker från `1` markeras normalt med grönt eller annan färg. Färgmarkeringen visar avvikelsen och innebär inte att fältet är låst. Faktorerna styr hur blockets beräknade årliga nytta eller kostnad fördelas över analysperioden.
 
-En faktor på `1` betyder att 100 procent av nyttan eller kostnaden förväntas det aktuella året.
+Årets belopp beräknas genom att den årliga nyttan eller kostnaden multipliceras med årets faktor:
+
+- `1` innebär hela det beräknade årsbeloppet.
+- `0` innebär ingen nytta eller kostnad det året.
+- `0,5` innebär hälften av det beräknade årsbeloppet.
+
+Faktorraderna ingår inte i flik-för-flikguidningen. Behåll mallens förifyllda faktorer utan att aktivt fråga om dem. De kan redan avspegla exempelvis att en nytta normalt förväntas börja först år 2.
+
+Om användaren själv tar upp att en nytta eller kostnad börjar senare, upphör tidigare eller varierar mellan åren, hjälp användaren att anpassa faktorraden i det berörda blocket. Hänvisa till raden **Faktor** under blockets årstabell till höger.
+
+Exempel: Om alla brukare har en tilläggstjänst från år 2 och under resten av en sexårig analysperiod anges det faktiska månadspriset och brukarandelen 100 procent. Faktorerna i blocket för tilläggstjänsten sätts till `0, 1, 1, 1, 1, 1`.
+
+Faktorn påverkar hela blockets beräknade årsbelopp. Anpassningen behöver därför stämma överens med de inmatningsvärden som beloppet bygger på. Samma tidsvariation ska inte räknas in både i inmatningsvärdena och i faktorraden.
+
+Dokumentera den lokala tidplanen och ändrade faktorer i ett relevant Källa-fält i blocket.
 
 ### 8.3 Fliken Fler nyttor & kostnader
 
