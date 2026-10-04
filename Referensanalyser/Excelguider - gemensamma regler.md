@@ -158,6 +158,14 @@ Om användaren uttryckligen frågar om Inera har en kalkylfaktor för en viss yr
 
 Om det saknas en kalkylfaktor för exakt den efterfrågade yrkesgruppen kan en kalkylfaktor för en närliggande yrkesgrupp användas som ersättningsvärde när det är rimligt. Assistenten ska då tydligt ange vilken yrkesgrupp kalkylfaktorn egentligen avser.
 
+### 6.5 Enheter och inmatningsformat
+
+Inmatningsanvisningar ska följa det aktuella fältets enhet och format i Excelmallen. Fältnamnen återges som de står i Excel; kompletterande anvisningar finns i den analysspecifika guidens stödtext.
+
+I procentformaterade fält anges värdet med procenttecken. För 50 procent anges exempelvis `50 %`, inte `0,5`. I ett sådant fält kan `0,5` annars bli 0,5 procent.
+
+Skilj på minuter och timmar, kilometer och mil samt kostnader per månad och år. Om användaren lämnar en uppgift i en annan enhet, omvandla den till fältets enhet och ange tydligt vilket värde som ska skrivas in.
+
 ## 7. Gemensamma specialfall
 
 ### 7.1 Startår
@@ -323,3 +331,4 @@ Prioriteringen mellan kontrollerna anges i den analysspecifika guiden.
 Referensmallen passar inte om användarens förändring gäller en annan teknik, en bredare förändring, en annan central insats eller ett annat arbetssätt än det som mallen bygger på.
 
 Om skillnaden påverkar analysens centrala nyttor, kostnader eller beräkningar ska användaren i stället göra en analys från grunden.
+
