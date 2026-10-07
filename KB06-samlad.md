@@ -909,39 +909,49 @@ Beskriv vilken del av förändringen som bidrar till nyttan, vilka effekter som 
 
 Gå igenom de negativa effekterna från insamlingen en i taget. Förtydliga vad effekten består i och vem som påverkas. Dela upp formuleringar som innehåller flera olika effekter och slå ihop sådant som beskriver samma effekt. Utgå från skillnaden mellan Alternativ A och Alternativ B och lägg inte till negativa följdeffekter som saknar stöd i underlaget.
 
-## Pröva hur den negativa effekten uppstår
+## Pröva hur effekten leder till en försämring
 
-Undersök sambandet mellan förändringen och den negativa effekten. Börja med den del av Alternativ B som skiljer sig från Alternativ A. Pröva sedan vad den förändrar i ett beteende, en aktivitet eller en förutsättning och hur detta leder till den negativa effekten.
+När du identifierar konsekvenskostnader, undersök sambandet för att se vad som leder till vad. Börja med den del av förändringen som skiljer Alternativ B från Alternativ A. Pröva sedan hur den förändrar ett beteende, en aktivitet eller en förutsättning, vilken negativ effekt som uppstår och hur detta försämrar ett värde eller kräver mer resurser för den som påverkas.
 
-Sambandet kan prövas i text eller dialog och behöver inte visualiseras. Om den negativa effekten inte går att koppla till förändringen ska den inte beskrivas som en konsekvens av Alternativ B.
+Jämför den negativa effekten eller risken i Alternativ A och Alternativ B. Undersök om den tillkommer, ökar, minskar eller är oförändrad. Fråga eller ange vad som är oklart när skillnaden inte framgår av underlaget.
 
-## Skilj mellan konsekvenskostnader, risker och hinder
+Om effekten inte går att koppla till förändringen ska den inte beskrivas som en konsekvens av Alternativ B.
 
-En konsekvenskostnad är en negativ effekt som förväntas uppstå om förändringen genomförs. En risk är en möjlig händelse eller utveckling som kan inträffa och leda till negativa konsekvenser. Ett hinder är något som kan försvåra, försena eller hindra förändringen eller dess avsedda effekter.
+## Skilj mellan mellanliggande effekter och självständiga konsekvenskostnader
 
-Beskriv inte en möjlig händelse som om den säkert kommer att inträffa. Beskriv inte heller själva hindret som en konsekvenskostnad. Håll isär vad som förväntas uppstå, vad som kan inträffa och vad som kan stå i vägen.
+Beskriv en negativ effekt som en egen konsekvenskostnad när den innebär en självständig försämring för någon och förväntas uppstå till följd av förändringen. När underlaget beskriver en förändrad aktivitet eller ett oklart mellanled, undersök vad detta innebär för den som påverkas. Fråga när försämringen inte framgår.
 
-## Skilj mellan konsekvenskostnader och kostnader som krävs för förändringen
-
-En konsekvenskostnad är en negativ effekt som uppstår till följd av att förändringen genomförs eller används. En kostnad som krävs för att genomföra och upprätthålla förändringen är i stället en resursinsats som behövs för att förändringen ska kunna införas och fungera över tid. Den senare typen identifieras i en separat genomgång.
-
-Samma aktivitet kan ge upphov till båda kostnadstyperna. Tiden som personalen behöver lägga på utbildning är en kostnad som krävs för förändringen. Om arbetet samtidigt tar längre tid under inlärningen är den ökade tidsåtgången en konsekvenskostnad. Om det bara finns en möjlighet att inlärningen leder till fler fel är detta en risk. Beskriv delarna separat.
-
-## Ta med negativa effekter som är relevanta för analysen
+Flera negativa effekter kan tillsammans leda till samma konsekvenskostnad. Beskriv då kostnaden en gång och visa hur de olika effekterna bidrar till den. Redovisa mellanled som separata kostnader endast om de innebär en annan, självständig försämring.
 
 Ta med negativa effekter som kan påverka bedömningen av förändringen eller förståelsen av dess samlade konsekvenser. En liten irritation behöver inte beskrivas som en egen konsekvenskostnad. Den kan ändå vara relevant om den upprepas ofta, berör många eller påverkar möjligheten att nå en viktig nytta.
 
-Flera negativa effekter kan leda till samma konsekvenskostnad. Undvik att registrera varje led i sambandet som en separat kostnad om de beskriver samma negativa värde.
+## Skilj mellan konsekvenskostnader, risker och hinder
+
+En konsekvenskostnad är en negativ effekt som förväntas uppstå om förändringen genomförs. En risk är en möjlig händelse eller utveckling som kan leda till negativa konsekvenser. Ett hinder är något som kan försvåra, försena eller hindra förändringen eller dess avsedda effekter.
+
+Beskriv inte en möjlig händelse som om den säkert kommer att inträffa. En förväntad kostnad blir däremot inte en risk för att storleken är osäker. Håll isär vad som förväntas uppstå, vad som kan inträffa och vad som kan stå i vägen.
+
+Om en formulering innehåller flera delar, skilj vid behov händelsen från hindret och den negativa konsekvens som kan uppstå. Beskriv inte själva hindret som en konsekvenskostnad.
+
+## Skilj konsekvenskostnader från förutsättningsarbete
+
+Skilj negativa följder från de resursinsatser som krävs för att genomföra och upprätthålla förändringen. Resursinsatserna identifieras i den separata genomgången i 4.5. För vidare redan identifierade resursbehov till den genomgången.
+
+Samma aktivitet kan ge upphov till båda kostnadstyperna. Tid för utbildning är en resursinsats som krävs för förändringen. Om det ordinarie arbetet tar längre tid under inlärningen är den ökade tidsåtgången en konsekvenskostnad. Om inlärningen kan leda till fler fel är detta en risk. Beskriv delarna separat.
+
+En farhåga om exempelvis en saknad rutin kan vara omhändertagen om rutinen ska tas fram inom införandet och resursbehovet för att göra det räknas med som förutsättningskostnad. Beskriv vilket arbete analysens Alternativ B förutsätter och ta med resursbehovet i 4.5. Behåll inte automatiskt en separat risk om arbetet för att ta bort den är planerat.
+
+Klargör vilken farhåga det planerade arbetet tar hand om. Beskriv en relevant kvarstående risk när underlaget visar att en sådan återstår trots förutsättningsarbetet.
 
 ## Beskriv konsekvenskostnader, risker och hinder var för sig
 
-Ge varje konsekvenskostnad en kort rubrik, ett perspektiv, en kategori och en beskrivning. Välj kategorin finansiell, omfördelning, kvalitet eller miljö. Beskriv vilken del av förändringen som orsakar kostnaden, vilka negativa effekter som leder fram till den och vem som drabbas. 
+Ge varje konsekvenskostnad en kort rubrik, ett perspektiv, en kategori och en beskrivning. Rubriken ska uttrycka försämringen, inte bara aktiviteten eller ett mellanled. Välj kategorin finansiell, omfördelning, kvalitet eller miljö. Perspektivet visar vem som bär kostnaden.
 
-Om en formulering innehåller flera delar ska du vid behov skilja den möjliga händelsen från den faktor som kan stå i vägen och från den negativa konsekvens som kan uppstå.
+Beskriv vilken del av förändringen som orsakar kostnaden, vilka negativa effekter som leder fram till den och vem som drabbas. Bygg beskrivningen på det som har kommit fram i analysen.
 
-Beskriv en risk genom vad som kan inträffa, vad som kan orsaka händelsen, vilka negativa konsekvenser den kan få och vem som kan påverkas. Beskriv ett hinder genom vad som kan försvåra eller stoppa förändringen och vilka effekter eller nyttor det kan hindra. Tvinga inte in risker och hinder i en kostnadskategori.
+Beskriv en risk genom vad som kan inträffa och vilka negativa följder det kan få. Du behöver inte utreda hela sambandet eller formulera detaljerade konsekvenskostnader från risken. Beskriv ett hinder genom vad som kan stå i vägen för förändringen eller dess avsedda effekter. Ta med kända orsaker vid behov. Risker och hinder får ingen kostnadskategori och inget perspektiv.
 
-Om underlaget nämner åtgärder som ska minska en risk kan du dokumentera dem. Dra inte slutsatsen att risken är hanterad, obetydlig eller inte blockerande om underlaget inte visar det.
+Identifiera risker och hinder på övergripande nivå. Samla närliggande orsaker till samma risk eller hinder i en gemensam beskrivning och ange orsakerna i texten. Håll självständiga risker och hinder isär och fördjupa när du behöver eller vill. Nyttoanalysen ersätter inte en fullständig riskanalys.
 
 ---
 
