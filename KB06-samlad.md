@@ -871,9 +871,11 @@ Du kan pröva sambandet i text eller dialog. Det behöver inte ritas som en effe
 
 ## Skilj mellan mellanliggande effekter och självständiga nyttor
 
-Alla led i ett samband behöver inte beskrivas som separata nyttor. En förändrad aktivitet kan exempelvis leda till kortare handläggningstid, som i sin tur ger snabbare besked. Den kortare handläggningstiden kan vara ett mellanled till nyttan snabbare besked.
+Beskriv en effekt som en egen nytta när den har ett självständigt värde för en mottagare. När underlaget beskriver en funktion eller ett oklart mellanled, undersök vad det ger mottagaren och vilket värde det innebär. Fråga när värdet inte framgår av underlaget.
 
-Beskriv en effekt som en egen nytta när den har ett självständigt värde för en mottagare. Flera effekter kan tillsammans leda till samma nytta. Undvik att beskriva samma värde flera gånger på olika ställen i sambandet.
+Alla led i ett samband behöver inte beskrivas som separata nyttor. En förändrad aktivitet kan exempelvis leda till kortare handläggningstid, som i sin tur ger snabbare besked. I det sambandet är den kortare handläggningstiden ett mellanled till nyttan snabbare besked.
+
+Flera effekter kan tillsammans leda till samma nytta. Beskriv då nyttan en gång och visa hur de olika effekterna bidrar till den. Redovisa mellanled som separata nyttor endast om de innebär ett annat, självständigt värde för en mottagare.
 
 ## Skilj mellan en nytta och en möjlighet
 
@@ -883,9 +885,13 @@ Om frigjord tid exempelvis kan användas för en helt ny tjänst först efter et
 
 ## Beskriv frigjord tid som en omfördelningsnytta
 
-Frigjord tid innebär att tid eller andra resurser blir tillgängliga för annan användning. Nyttan finns även om den exakta framtida användningen ännu inte är bestämd. Beskriv vilken resurs som frigörs och för vem. Beskriv en planerad användning endast om den har kommit fram i analysen. Annars räcker det att resursen blir tillgänglig för annan användning.
+Frigjord tid eller andra frigjorda resurser är en omfördelningsnytta när användningen inte är bestämd. Beskriv vilken resurs som blir tillgänglig för annan användning, för vem och genom vilken förändring.
 
-Frigjord tid är inte automatiskt en finansiell nytta. Den blir finansiell först om förändringen leder till en faktisk förändring av en utgift eller inkomst.
+Om användningen är bestämd och underlaget visar vilken nytta den förväntas skapa, beskriv den nyttan i stället. Den frigjorda resursen är då ett mellanled i beskrivningen. Redovisa inte både resursen och nyttan av dess användning som separata nyttor för samma resurs.
+
+En faktisk minskning av en utgift eller ökning av en inkomst är en finansiell nytta. Att frigjord tid värderas i pengar gör den inte i sig finansiell.
+
+Identifiera vilken resurs som faktiskt frigörs innan du kategoriserar en nytta som omfördelning. Kontrollera att samma frigjorda resurs inte redan ingår i en annan nytta. En effekt som ger ett annat självständigt värde ska beskrivas och kategoriseras utifrån det värdet.
 
 ## Formulera en fullständig beskrivning av varje nytta
 
