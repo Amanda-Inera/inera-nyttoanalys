@@ -961,13 +961,17 @@ Identifiera risker och hinder på övergripande nivå. Samla närliggande orsake
 
 ## Kartlägg vad förändringen kräver
 
-När du frågar vad en förändring kostar är det ofta dessa kostnader du först tänker på: utveckling, inköp, teknik, licenser, utbildning, införande, drift och förvaltning. Det kan vara både nya utgifter och tid eller andra befintliga resurser som behöver tas från annan användning. I den här genomgången ska du identifiera sådana kostnader.
+När du frågar vad en förändring kostar är det ofta dessa kostnader du först tänker på: utveckling, inköp, teknik, licenser, utbildning, införande, drift och förvaltning. Det kan vara både nya utgifter och tid eller andra befintliga resurser som behöver tas från annan användning.
+
+Här identifierar du vilka kostnader som krävs för förändringen. Hur stora de är bedömer du senare vid värderingen.
 
 ## Utgå från den kunskap som finns
 
 Utgå från det som redan är känt om hur förändringen ska genomföras och upprätthållas. Använd egen kunskap, dokument och uppgifter från personer som känner verksamheten, tekniken eller genomförandet.
 
-Börja med kostnader som redan har nämnts och undersök om något mer behövs. Ställ följdfrågor där det finns tydliga kunskapsluckor. Kostnaderna behöver inte vara fullständigt utredda för att kunna tas med i listan.
+Börja med kostnader som redan har nämnts. Ta också med resursbehov från analysen av negativa effekter, exempelvis arbete med rutiner, ansvar eller utbildning, när det är känt att arbetet ska ingå i Alternativ B. Undersök sedan vad mer som behövs.
+
+Förtydliga sådant som behövs för att förstå kostnaden, vem som bär den eller hur den ska delas in. Kostnadernas innehåll behöver inte vara utrett i detalj för att kunna tas med i listan. Ange vad som är oklart när underlaget inte räcker.
 
 ## Identifiera resurser som krävs för att genomföra förändringen
 
@@ -976,11 +980,10 @@ Undersök vad som krävs för att utveckla, anskaffa och införa förändringen.
 - utveckling, integrationer och tekniska anpassningar
 - upphandling, inköp, utrustning och installation
 - kravställning och verksamhetsutveckling
-- utbildning och förändrade arbetssätt
+- utbildning, information och förändrade arbetssätt
+- arbete med rutiner, ansvar och reservlösningar
 - projektledning, förändringsledning, ledning och styrning
 - personalens medverkan i utveckling och införande
-
-Ta med både nya utgifter och tid eller andra befintliga resurser som behöver tas från annan användning.
 
 ## Identifiera resurser som krävs för att upprätthålla förändringen
 
@@ -993,19 +996,21 @@ Undersök vad som behövs för att förändringen ska fortsätta fungera efter i
 - återkommande utbildning
 - löpande ledning och styrning
 
-Ta bara med resurser som faktiskt behövs för förändringen. Befintliga resurser som används på samma sätt i båda alternativen är normalt inte kostnader som krävs för förändringen.
+Ta bara med resurser som faktiskt behövs för förändringen. Befintliga resurser som används på samma sätt i Alternativ A och Alternativ B är normalt inte kostnader som krävs för förändringen.
 
 ## Skilj resursinsatser från negativa effekter
 
 En resursinsats som behövs för att förändringen ska kunna genomföras eller fungera över tid hör till denna genomgång. Tid som personalen behöver lägga på utbildning är exempelvis en sådan kostnad.
 
-En negativ effekt som uppstår under genomförandet eller användningen hör i stället till analysen av negativa effekter. Ökad arbetsbelastning under införandet kan vara en konsekvenskostnad. Om det bara finns en möjlighet att belastningen uppstår är det en risk. Negativ påverkan på kvalitet eller miljö hanteras på samma sätt.
+En negativ effekt som uppstår under genomförandet eller användningen hör i stället till analysen av negativa effekter. Om det ordinarie arbetet tar längre tid under inlärningen är den ökade tidsåtgången en konsekvenskostnad. Om inlärningen kan leda till fler fel är detta en risk. Negativ påverkan på kvalitet eller miljö hör också till analysen av negativa effekter.
 
 ## Beskriv och dela upp kostnaderna
 
-Ge varje kostnad en kort rubrik, ett perspektiv, en kategori och en beskrivning. Finansiella kostnader är nya utgifter eller minskade intäkter. Omfördelningskostnader är tid eller andra befintliga resurser som behöver tas från annan användning.
+Ge varje kostnad en kort rubrik, ett perspektiv och en kategori. Lägg till en beskrivning när innebörden annars är oklar eller när du vill utveckla den. Perspektivet visar vem som bär kostnaden. Finansiella kostnader är nya eller ökade utgifter eller minskade intäkter. Omfördelningskostnader är befintlig tid eller andra resurser som tas från annan användning. Klargör exempelvis om installation görs av egen personal eller köps in.
 
-Ange om kostnaden är en engångskostnad eller en löpande kostnad när det går att avgöra utifrån underlaget. Om samma område innehåller båda delarna, exempelvis utveckling och löpande förvaltning, ska de beskrivas som två separata kostnader. Slå ihop verkliga dubbletter, men håll kostnader med olika innebörd eller tidsprofil isär.
+Ange om kostnaden är en engångskostnad eller en löpande kostnad. Utgå från underlaget och gör en preliminär indelning när det finns stöd för den. Förtydliga det som är oklart och rätta indelningen vid behov.
+
+Om samma område innehåller båda delarna, exempelvis utveckling och löpande förvaltning, ska de beskrivas som två separata kostnader. Slå ihop verkliga dubbletter, men håll kostnader med olika innebörd eller tidsprofil isär. Kontrollera också överlapp med redan identifierade konsekvenskostnader så att samma resursanvändning inte räknas två gånger.
 
 ---
 
