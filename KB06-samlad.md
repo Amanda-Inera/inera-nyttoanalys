@@ -501,6 +501,16 @@ Välj ett eller flera av metodens fem övergripande perspektiv:
 
 Perspektiven anger vems nyttor och kostnader som ska ingå i analysen. Använd dem för att tänka brett innan du avgränsar analysen. Ett perspektiv kan innehålla flera organisationer, roller eller grupper som påverkas på olika sätt.
 
+## Välj perspektiv efter syfte och resurser
+
+Utgå från analysens syfte och tillgängliga resurser när du väljer vilka perspektiv som ska ingå. Om analysen ska ge en heltäckande bild behöver du undersöka vilka nyttor och kostnader som kan uppstå inom alla fem perspektiv. Om syftet är att besvara en mer avgränsad fråga kan färre perspektiv räcka.
+
+Fler perspektiv innebär mer arbete med att identifiera och beskriva nyttor och kostnader. Anpassa omfattningen efter frågan som ska besvaras, praktiska förutsättningar och den tid och de resurser som finns.
+
+Du kan också begränsa arbetsinsatsen genom urvalet för pengavärderingen. Alla perspektiv kan ingå i effektinsamlingen även om du bara värderar vissa nyttor och kostnader i pengar. Övriga identifierade nyttor och kostnader finns kvar i analysen, men ingår inte i det beräknade resultatet i pengar.
+
+Om ett uteslutet perspektiv ändå förväntas få betydande nyttor eller kostnader, ta upp det i osäkerhetsbedömningen. Beskriv vad avgränsningen innebär för tolkningen av resultatet.
+
 ## Konkretisera organisationer och huvudmän
 
 Ange den konkreta organisationen eller huvudmannen när du väljer den egna organisationen eller andra organisationer och huvudmän. Skriv exempelvis **Solstad kommun**, **Region Solstad** eller **kommunerna** i stället för enbart den generella kategorin.
