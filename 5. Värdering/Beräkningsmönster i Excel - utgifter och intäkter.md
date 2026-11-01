@@ -17,6 +17,14 @@ Redovisa minskade utgifter och ökade intäkter som finansiella nyttor. Redovisa
 
 Om utgiften ökar använder du **utgift i Alternativ B minus utgift i Alternativ A** och lägger värdet som en kostnad. Om Alternativ A saknar utgiften kan du använda hela utgiften i Alternativ B som kostnad.
 
+## Välj upplägg när utgifter upphör och nya tillkommer
+
+Använd en differens när det är klarlagt att förändringen ökar eller minskar utgiften. Med 2 miljoner kronor i Alternativ A och 3 miljoner i Alternativ B redovisar du exempelvis 1 miljon som ökad kostnad.
+
+Om riktningen är osäker kan du särredovisa utgifter som faktiskt upphör i Alternativ B som en finansiell nytta och utgifter som tillkommer i Alternativ B som en finansiell kostnad. Använd separata N- och K-block och anpassa årsprofilen till när respektive förändring sker. Räkna bara den del av A-utgiften som faktiskt försvinner. En utgift som kvarstår är ingen besparing.
+
+Räkna inte samma besparing både som nytta och som avdrag i kostnadsblocket. Dokumentera valet av upplägg: särredovisning och differens ger samma nettonytta för samma belopp och årsprofiler, men olika summor av nyttor och kostnader och därmed olika nettonytta per satsad krona. Använd en konsekvent redovisningsprincip för jämförbara utgifter i analysen.
+
 ## Beräkna fler eller färre kostsamma händelser
 
 | Faktor | Troligt | Källa |
