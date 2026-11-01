@@ -17,15 +17,7 @@ Redovisa minskade utgifter och ökade intäkter som finansiella nyttor. Redovisa
 
 Om utgiften ökar använder du **utgift i Alternativ B minus utgift i Alternativ A** och lägger värdet som en kostnad. Om Alternativ A saknar utgiften kan du använda hela utgiften i Alternativ B som kostnad.
 
-## Jämför samma slags utgift och välj upplägg
-
-Beräkna en differens mellan samma slags utgift i Alternativ A och Alternativ B, med jämförbar omfattning och tidsperiod, när det är klarlagt om utgiften ökar eller minskar. Drift och förvaltning som kostar 2 miljoner i A och 3 miljoner i B ger exempelvis 1 miljon i ökad kostnad.
-
-Håll skilda nyttor och kostnader i egna block. Kvitta exempelvis inte driftkostnader mot tandläkares frigjorda arbetstid i ett block, även om riktningen är klarlagd.
-
-Om riktningen är osäker kan du särredovisa utgifter som faktiskt upphör som finansiell nytta och tillkommande utgifter i B som finansiell kostnad. Använd separata N- och K-block med respektive årsprofil. Räkna bara den del av A-utgiften som faktiskt försvinner.
-
-Räkna inte samma besparing både som nytta och som avdrag i kostnadsblocket. Dokumentera upplägget och använd samma princip för jämförbara utgifter i analysen. Särredovisning och differens ger samma nettonytta för samma belopp och årsprofiler, men olika summor av nyttor och kostnader och därmed olika nettonytta per satsad krona.
+Valet mellan differens och särredovisning beskrivs i **5.3.2 Excelguide: Bygg beräkningar i Värde nyttor och Värde kostnader**.
 
 ## Beräkna fler eller färre kostsamma händelser
 
