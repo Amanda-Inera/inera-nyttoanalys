@@ -1,53 +1,93 @@
-# Förvaltning – revidering av kunskapsbasen
+# Så uppdaterar vi kunskapsbasen
 
-## Administrativt stöd – ingår inte i KB
+Den här instruktionen beskriver hur Amanda och den som hjälper henne granskar, ändrar och lämnar över kunskapsbasens texter.
 
-Den här filen styr arbetet med KB-revidering. Den ska **inte porteras till appens kunskapsbas, indexeras för KB-sökning eller ingå i `KB06-samlad.md`**. Förvara förvaltningsdokument i `admin/`, utanför artikelmapparna. Samlingsfilens byggskript utesluter redan denna mapp.
+Instruktionen ligger i mappen `admin`. Den ska inte ingå i kunskapsbasens artiklar, samlingsfil eller AI-assistentens metodstöd.
 
-## Källor, ansvar och avgränsning
+## 1. Utgå från rätt underlag
 
-- Använd detta repos godkända artiklar som metodkälla. Ange vilken branch eller version som granskas; skilj arbetsförslag från godkänd text. Använd inklistrad arbetsversion om Amanda anger det. Fråga om versionen är oklar.
-- Kontrollera de senaste relevanta filerna i [appens repo](https://github.com/fabian-von-tiedemann/inera-nyttoanalys-v2) för vad appen faktiskt använder: grafer, scopes, gemensamma artiklar och instruktioner.
-- Amanda beslutar om metoden. Formuleringar i issues, tekniska förslag och appbeteenden är inte metodbeslut utan hennes bekräftelse. Anpassa inte KB till felaktigt appbeteende.
-- Ge textförslag för granskning. Ändra filer, skapa PR:er eller publicera issues och kommentarer endast när Amanda har bett om det. Ändra originalartiklarna, aldrig den genererade samlingsfilen.
+Amanda ansvarar för metoden och godkänner ändringar i kunskapsbasen.
 
-## Arbeta ett scope i taget
+Den godkända texten finns på `main` i detta repo. Ange vilken version granskningen utgår från. Om Amanda anger en annan arbetsversion används den i stället.
 
-Börja med det scope Amanda anger. Om inget anges, fråga. Ge först en kort nulägesanalys: relevanta artiklar och issues samt metodfrågor som behöver avgöras.
+Appens beteende, utvecklingsförslag och kommentarer i ärenden är underlag för granskningen. De blir inte metodbeslut förrän Amanda har bekräftat dem.
 
-Kontrollera relevanta issues, kommentarer, tidigare beslut och guldcase, även utan etiketten `KB`. Sök på nytt innan scopet avslutas. Skilj testobservationer, bekräftade metodbeslut och tekniska hypoteser. Visa om ett förslag redan stöds av KB, behöver förtydligande eller innebär en ändrad riktning.
+## 2. Bestäm vad som ska ses över
 
-Ta med de `shared`-scopes som noden faktiskt hämtar. Ändra en gemensam artikel bara om ändringen fungerar i alla dess sammanhang. Föreslå ändrad artikelindelning när det behövs; beakta även publika länkar. Stäm av motsägelser mellan KB, tidigare beslut och appen med Amanda. Gå vidare först när aktuellt scope är genomgånget och godkänt.
+Börja med den fråga eller del av metoden som Amanda vill arbeta med. Fråga om avgränsningen är oklar.
 
-## Skrivregler för KB-artiklar
+Läs de berörda artiklarna och kontrollera relevanta tidigare beslut och testfynd. Beskriv kort:
 
-Läs de sju skrivprinciperna i [#235 ordagrant](https://github.com/fabian-von-tiedemann/inera-nyttoanalys-v2/issues/235#issuecomment-5396322697) före revidering. De [antogs av Amanda](https://github.com/fabian-von-tiedemann/inera-nyttoanalys-v2/issues/235#issuecomment-5396578741):
+- vad texterna säger i dag,
+- vad som är otydligt, saknas eller motsäger annat innehåll,
+- vilka frågor Amanda behöver ta ställning till.
 
-- En rubrik motsvarar en hämtbar enhet. All brödtext ska ligga under en egen H2-rubrik, även ingressen.
-- Varje sektion ska omfatta **200–1 200 tecken**; sikta på 400–800. Högst sex sektioner per artikel.
-- Håll varje tabell inom en sektion och under 1 200 tecken.
-- Använd rubriker som beskriver läsarens situation med bekanta ord. Lägg poängen i första meningen. Varje sektion ska kunna förstås fristående.
+Kontrollera även ordlistan, gemensamma stödartiklar och andra texter som påverkas av ändringen. En artikel som används i flera sammanhang behöver fungera i samtliga.
 
-Skriv direkt och användarnära, gärna i imperativ. Tilltala läsaren med `du`, `dig` och `din`. Använd `ni` bara för en uttalad grupp, exempelvis ”ni i analysgruppen”. Skriv ”organisationen” eller ”er organisation” när hela organisationen avses. Nämn ”assistenten” i tredje person vid behov. Undvik ”man”, otydliga ”vi” och ”användaren” i användarriktad text. Använd centrala begrepp konsekvent.
+Om tillgång till appens repo saknas kan metodgranskningen ändå genomföras. Ange då vilka frågor om appens användning av texten som Fabian behöver kontrollera.
 
-Beskriv metodens facit och avgränsningar. Lägg appflöden, tekniska lösningar, sparinstruktioner och rapportimplementation i separat utvecklingsåterkoppling.
+## 3. Skriv begripliga och användbara artiklar
 
-## Kontrollera före godkännande
+Artiklarna ska kunna läsas av människor och användas som stöd av AI-assistenten. Assistenten kan få tillgång till enstaka avsnitt, så varje avsnitt behöver vara begripligt för sig.
 
-Kontrollera att relevant innehåll från föregående version finns kvar och redovisa medvetna borttagningar. Undvik dubbleringar inom artikeln; kontrollerad upprepning mellan artiklar är tillåten. Kontrollera skrivregler, metodbeslut, relevanta issues och sökbarhet för varje färdigt scope.
+Följ dessa skrivregler:
 
-Kontrollera aktuell hämtning och chunkning i appen. Använd `npm run kb:chunkprofil <scope>` i apprepot när de reviderade texterna finns tillgängliga där, eller be Fabian om mätningen. Redovisa varningar och sådant som ännu inte kunnat verifieras. Ändra inte metoden för att få en teknisk kontroll att passera.
+- Lägg all brödtext under en underrubrik på nivå två, markerad med `##`. Det gäller även ingressen.
+- Låt varje avsnitt behandla en tydlig fråga.
+- Skriv 200–1 200 tecken per avsnitt. Sikta på 400–800.
+- Använd högst sex sådana avsnitt per artikel.
+- Håll varje tabell samlad inom ett avsnitt och under 1 200 tecken.
+- Använd rubriker med bekanta ord som hjälper läsaren att hitta rätt.
+- Lägg huvudbudskapet först och skriv så att avsnittet kan förstås utan omgivande text.
 
-## Avsluta och överlämna
+Skriv direkt till läsaren med du, dig och din. Använd ni när en uttalad grupp avses. Använd samma begrepp konsekvent och undvik onödiga fackord.
 
-När Amanda säger att revideringen är klar, skapa en kort ändringslogg, högst cirka en sida, och lägg den i biblioteket. Ange datum, artiklar/scope, viktigaste innehållsförändringar och medvetet borttaget innehåll. Skriv uttryckligen om inget har tagits bort. Lägg till avgränsningar endast när sådana finns.
+Använd imperativ när läsaren eller analysgruppen ska göra något: skriv exempelvis **”Dokumentera vilka perspektiv som ingår”** i stället för **”Valda perspektiv dokumenteras”**.
 
-När ett metodsteg är färdigreviderat, skapa ett kort porteringsunderlag med tre rubriker:
+När instruktionen gäller någon annan, ange vem som ska göra vad, exempelvis **”Den ansvariga verksamheten ska följa upp om nyttorna uppstår”** i stället för **”Nyttorna följs upp”**. Skilj mellan en uppgift som ska utföras och något som faktiskt har genomförts eller kontrollerats. Aktiv form räcker inte om formuleringen ändå gör ansvaret eller uppgiftens status otydlig.
 
-1. **Vad som ändrats** – berörda artiklar och vad som gäller nu.
-2. **Metodbeslut som appen ska följa** – metodens regler.
-3. **Vad som inte har ändrats men lätt kan förväxlas** – viktiga avgränsningar; ange om inga finns.
+Beskriv hur metoden ska tillämpas och vilka avgränsningar som gäller. Frågor om exempelvis knappar, sparande och tekniska lösningar lämnas till utvecklingen.
 
-Ta inte med appbeteenden, kodfiler, lösningsförslag eller testfall i porteringsunderlaget. Fabian och utvecklingsagenten härleder implementation och tester. Gå sist igenom vilka issues revideringen hanterar och vad som återstår.
+## 4. Visa förslaget för Amanda
 
-Denna förvaltningsfil och administrativa ändringsloggar följer inte med innehållsporteringen.
+Visa de föreslagna texterna och förklara kort vad som ändras och varför. Skilj mellan språkliga förbättringar, förtydliganden av befintlig metod och nya metodbeslut.
+
+Redovisa om något innehåll tas bort eller får en annan innebörd.
+
+Amanda granskar och godkänner förslaget. Ändra filer, öppna en PR eller publicera ärenden och kommentarer när hon har bett om det. En PR är ett samlat ändringsförslag i GitHub och kan användas för granskningen om Amanda vill det.
+
+Ändra originalartiklarna. Samlingsfilen `KB06-samlad.md` byggs automatiskt och ska inte redigeras direkt.
+
+## 5. Kontrollera och dokumentera ändringen
+
+Kontrollera före införandet att:
+
+- texten följer Amandas metodbeslut och skrivreglerna,
+- relevant innehåll finns kvar och borttagningar är redovisade,
+- berörda artiklar använder begreppen konsekvent,
+- texten fungerar i de sammanhang där den används,
+- eventuella ändringar av artikelindelning och publika länkar är hanterade.
+
+Beskriv ändringen kort i samma PR som innehåller artikeländringarna: berörda artiklar, viktigaste förändringar, medvetet borttaget innehåll och eventuella kvarstående frågor.
+
+PR och GitHubs versionshistorik ger tillsammans spårbarheten. Ingen separat ändringslogg i ChatGPT behövs.
+
+Amanda godkänner när ändringen får föras in i `main`.
+
+## 6. Lämna över till Fabian
+
+När godkända artikeländringar finns på `main`, skapa ett porteringsärende till Fabian om de ska föras över till appen. Länka till PR och de berörda artiklarna.
+
+Porteringsunderlaget ska kort beskriva:
+
+1. **Vad som ändrats och varför** – berörda artiklar, vilket problem eller vilken otydlighet förändringen ska lösa och vad den ska göra tydligare.
+2. **Metodbeslut som appen ska följa** – reglerna som utvecklingen ska utgå från.
+3. **Vad som inte har ändrats men lätt kan förväxlas** – viktiga avgränsningar, om sådana finns.
+
+Underlaget ska gå att förstå utan att läsa tidigare chattar eller hela diskussionen i PR. Länka till PR och artiklarna för detaljer. Förklaringen av avsikten ska hjälpa mottagaren att förstå metodbesluten, utan att införa ytterligare krav som Amanda inte har godkänt.
+
+Fabian ska föra över texterna och kontrollera att appen hittar och använder dem. Han ansvarar också för tekniska lösningar och tester. Tekniska frågor och testfynd kan beskrivas separat i ärendet, utanför metodunderlaget.
+
+Skilj på att en text är godkänd i kunskapsbasen, överförd till appen och verifierad i användning. Ange vad som återstår och vem som ansvarar för det.
+
+Den här förvaltningsinstruktionen ska inte föras över till appens metodstöd.
