@@ -489,9 +489,11 @@ Anta exempelvis inte att en lokal förändring automatiskt ska analyseras ur org
 
 # **3.1 Välj perspektiv**
 
-## Välj vems nyttor och kostnader som ska ingå
+## Stöd för att välja perspektiv
 
-Välj ett eller flera av metodens fem övergripande perspektiv:
+Perspektiven anger vems nyttor och kostnader som ska ingå i analysen. Ett perspektiv kan exempelvis vara Solstad kommun, Inera, en leverantör, patienter eller samhället.
+
+Använd följande fem grupper som stöd för att tänka brett kring vilka som kan påverkas:
 
 - den egna organisationen
 - invånare, patienter eller brukare
@@ -499,37 +501,42 @@ Välj ett eller flera av metodens fem övergripande perspektiv:
 - andra organisationer eller huvudmän
 - samhället
 
-Perspektiven anger vems nyttor och kostnader som ska ingå i analysen. Använd dem för att tänka brett innan du avgränsar analysen. Ett perspektiv kan innehålla flera organisationer, roller eller grupper som påverkas på olika sätt.
+Grupperna hjälper dig att hitta relevanta perspektiv. De är inte fem fasta val som begränsar hur många perspektiv analysen kan omfatta. Flera perspektiv kan höra till samma grupp. Exempelvis kan både Inera och en leverantör ingå som separata perspektiv under andra organisationer eller huvudmän.
 
 ## Välj perspektiv efter syfte och resurser
 
-Utgå från analysens syfte och tillgängliga resurser när du väljer vilka perspektiv som ska ingå. Om analysen ska ge en heltäckande bild behöver du undersöka vilka nyttor och kostnader som kan uppstå inom alla fem perspektiv. Om syftet är att besvara en mer avgränsad fråga kan färre perspektiv räcka.
+Utgå från analysens syfte och tillgängliga resurser när du väljer vilka perspektiv som ska ingå. Om analysen ska ge en heltäckande bild behöver du undersöka vilka som kan påverkas inom alla fem grupperna. Om syftet är att besvara en mer avgränsad fråga kan färre perspektiv räcka.
 
 Fler perspektiv innebär mer arbete med att identifiera och beskriva nyttor och kostnader. Anpassa omfattningen efter frågan som ska besvaras, praktiska förutsättningar och den tid och de resurser som finns.
 
-Du kan också begränsa arbetsinsatsen genom urvalet för pengavärderingen. Alla perspektiv kan ingå i effektinsamlingen även om du bara värderar vissa nyttor och kostnader i pengar. Övriga identifierade nyttor och kostnader finns kvar i analysen, men ingår inte i det beräknade resultatet i pengar.
+Du kan också begränsa arbetsinsatsen genom urvalet för pengavärderingen. Alla valda perspektiv kan ingå i effektinsamlingen även om du bara värderar vissa nyttor och kostnader i pengar. Övriga identifierade nyttor och kostnader finns kvar i analysen, men ingår inte i det beräknade resultatet i pengar.
 
 Om ett uteslutet perspektiv ändå förväntas få betydande nyttor eller kostnader, ta upp det i osäkerhetsbedömningen. Beskriv vad avgränsningen innebär för tolkningen av resultatet.
 
-## Konkretisera organisationer och huvudmän
+## Ange vilka perspektiv som ingår
 
-Ange den konkreta organisationen eller huvudmannen när du väljer den egna organisationen eller andra organisationer och huvudmän. Skriv exempelvis **Solstad kommun**, **Region Solstad** eller **kommunerna** i stället för enbart den generella kategorin.
+Ange de organisationer och grupper vars nyttor och kostnader ska ingå. Använd konkreta organisationsnamn och begripliga benämningar som patienter eller brukare i äldreomsorgen.
 
-Använd samma konkreta benämning i ramarna, som perspektiv på nyttor och kostnader och i Excelmallens fält **Perspektiv**.
+Organisationer som ska redovisas var för sig anges som separata perspektiv, även om de hör till gruppen andra organisationer eller huvudmän. Inera och leverantören får då varsitt perspektiv. Använd samma benämningar i ramarna, på nyttor och kostnader och i Excelmallens fält **Perspektiv**.
 
-| Övergripande perspektiv | Perspektiv som dokumenteras | Exempel på nytta eller kostnad |
+En samlande benämning som **kommunerna** kan användas när analysen avser dessa organisationer gemensamt. Ange vilka organisationer som omfattas.
+
+| Stöd för perspektivvalet | Perspektiv som dokumenteras | Exempel på nytta eller kostnad |
 | --- | --- | --- |
 | Den egna organisationen | Solstad kommun | Frigjord tid för undersköterskor |
-| Andra organisationer eller huvudmän | Region Solstad | Ökad arbetsbelastning för sjuksköterskor |
-| Invånare, patienter eller brukare | Brukare | Ökad trygghet för brukare |
-| Närstående | Närstående | Bättre överblick för närstående |
+| Andra organisationer eller huvudmän | Inera | Tid för förvaltning |
+| Andra organisationer eller huvudmän | Leverantören | Tid för utveckling |
+| Invånare, patienter eller brukare | Brukare i äldreomsorgen | Ökad trygghet |
+| Närstående | Närstående | Bättre överblick |
 | Samhället | Samhället | Minskade utsläpp från resor |
 
-## Skilj perspektiv från berörda roller och grupper
+## Skilj perspektiv från berörda enheter, funktioner och grupper
 
-Behandla inte enskilda roller eller grupper som egna övergripande perspektiv. Undersköterskor i Solstad kommun hör exempelvis till perspektivet **Solstad kommun**, och sjuksköterskor i Region Solstad hör till perspektivet **Region Solstad**.
+Olika delar av en organisation kan påverkas på olika sätt och ändå höra till samma perspektiv. Undersköterskor, IT-förvaltningen och andra enheter eller funktioner i Solstad kommun hör till perspektivet **Solstad kommun**.
 
-Ange den berörda rollen eller gruppen i nyttans eller kostnadens rubrik och beskrivning när det behövs för att förklara vem som påverkas. Perspektivet ska fortfarande vara den övergripande och vid behov konkretiserade kategorin.
+Ange den berörda enheten, funktionen eller gruppen i nyttans eller kostnadens rubrik och beskrivning när det behövs för att förklara var påverkan uppstår och vem som berörs. De blir inte egna perspektiv enbart för att de utför olika arbete eller får olika nyttor och kostnader.
+
+Skilj detta från olika organisationer som redovisas var för sig. Inera och leverantören blir inte ett gemensamt perspektiv för att båda hör till andra organisationer eller huvudmän.
 
 ## Använd samhällsperspektivet för breda effekter
 
@@ -5050,9 +5057,11 @@ Kostnaderna kallas ibland förutsättningskostnader.
 
 ## Vad är ett perspektiv, en intressent och samhället?
 
-Ett **perspektiv** visar vems nyttor och kostnader som ingår i en nyttoanalys, exempelvis organisationen, invånare eller samhället.
+Ett **perspektiv** visar vems nyttor och kostnader som ingår i en nyttoanalys, exempelvis Solstad kommun, Inera, en leverantör, patienter eller samhället.
 
-En **intressent** är en individ, grupp eller organisation som påverkas av eller har möjlighet att påverka en förändring.
+De fem grupperna i stödet för perspektivvalet hjälper dig att hitta vilka som kan påverkas. Flera konkreta perspektiv kan höra till samma grupp. Exempelvis kan Inera och en leverantör redovisas som två perspektiv inom andra organisationer eller huvudmän.
+
+En **intressent** är en individ, grupp eller organisation som påverkas av eller har möjlighet att påverka en förändring. En intressent blir inte automatiskt ett eget perspektiv. Enheter, funktioner och yrkesgrupper inom en organisation kan beskrivas inom organisationens perspektiv.
 
 **Samhället** är ett perspektiv som omfattar effekter som berör många aktörer eller samhället i bred mening, exempelvis miljöpåverkan.
 
@@ -5135,6 +5144,7 @@ När måttet beskrivs i relation till en satsad krona används uttrycket **netto
 | Träffar, exempelvis ”nyttan träffar medarbetarna” | Tillfaller | Tillfaller anger tydligt vem som får nyttan eller bär kostnaden. |
 | Sparar pengar, när en omfördelningsnytta avses | Frigör resurser som kan användas till annat | Omfördelningsnytta innebär inte automatiskt minskade kostnader eller ökat budgetutrymme. |
 | Ekonomiskt perspektiv | Finansiell, omfördelning, kvalitet eller miljö; vid behov värderad i pengar | Uttrycket blandar ihop kategori, perspektiv och värderingssätt. |
+| Fem fasta perspektiv eller fem övergripande perspektiv, när stödgrupperna avses | Fem grupper som stöd för att välja perspektiv | Grupperna stödjer perspektivvalet. De begränsar inte antalet konkreta perspektiv. |
 
 ## Begrepp för samband och berörda personer
 
