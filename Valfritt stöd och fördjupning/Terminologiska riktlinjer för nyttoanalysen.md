@@ -35,6 +35,7 @@
 | Träffar, exempelvis ”nyttan träffar medarbetarna” | Tillfaller | Tillfaller anger tydligt vem som får nyttan eller bär kostnaden. |
 | Sparar pengar, när en omfördelningsnytta avses | Frigör resurser som kan användas till annat | Omfördelningsnytta innebär inte automatiskt minskade kostnader eller ökat budgetutrymme. |
 | Ekonomiskt perspektiv | Finansiell, omfördelning, kvalitet eller miljö; vid behov värderad i pengar | Uttrycket blandar ihop kategori, perspektiv och värderingssätt. |
+| Fem fasta perspektiv eller fem övergripande perspektiv, när stödgrupperna avses | Fem grupper som stöd för att välja perspektiv | Grupperna stödjer perspektivvalet. De begränsar inte antalet konkreta perspektiv. |
 
 ## Begrepp för samband och berörda personer
 

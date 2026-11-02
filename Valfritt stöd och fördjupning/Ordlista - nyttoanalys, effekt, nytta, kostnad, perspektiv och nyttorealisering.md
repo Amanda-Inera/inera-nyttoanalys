@@ -42,8 +42,10 @@ Kostnaderna kallas ibland förutsättningskostnader.
 
 ## Vad är ett perspektiv, en intressent och samhället?
 
-Ett **perspektiv** visar vems nyttor och kostnader som ingår i en nyttoanalys, exempelvis organisationen, invånare eller samhället.
+Ett **perspektiv** visar vems nyttor och kostnader som ingår i en nyttoanalys, exempelvis Solstad kommun, Inera, en leverantör, patienter eller samhället.
 
-En **intressent** är en individ, grupp eller organisation som påverkas av eller har möjlighet att påverka en förändring.
+De fem grupperna i stödet för perspektivvalet hjälper dig att hitta vilka som kan påverkas. Flera konkreta perspektiv kan höra till samma grupp. Exempelvis kan Inera och en leverantör redovisas som två perspektiv inom andra organisationer eller huvudmän.
+
+En **intressent** är en individ, grupp eller organisation som påverkas av eller har möjlighet att påverka en förändring. En intressent blir inte automatiskt ett eget perspektiv. Enheter, funktioner och yrkesgrupper inom en organisation kan beskrivas inom organisationens perspektiv.
 
 **Samhället** är ett perspektiv som omfattar effekter som berör många aktörer eller samhället i bred mening, exempelvis miljöpåverkan.
