@@ -17,6 +17,8 @@ Redovisa minskade utgifter och ökade intäkter som finansiella nyttor. Redovisa
 
 Om utgiften ökar använder du **utgift i Alternativ B minus utgift i Alternativ A** och lägger värdet som en kostnad. Om Alternativ A saknar utgiften kan du använda hela utgiften i Alternativ B som kostnad.
 
+Valet mellan differens och särredovisning beskrivs i **5.3.2 Excelguide: Bygg beräkningar i Värde nyttor och Värde kostnader**.
+
 ## Beräkna fler eller färre kostsamma händelser
 
 | Faktor | Troligt | Källa |
