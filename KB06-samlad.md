@@ -505,13 +505,11 @@ Grupperna hjälper dig att hitta relevanta perspektiv. De är inte fem fasta val
 
 ## Välj perspektiv efter syfte och resurser
 
-Utgå från analysens syfte och tillgängliga resurser när du väljer vilka perspektiv som ska ingå. Om analysen ska ge en heltäckande bild behöver du undersöka vilka som kan påverkas inom alla fem grupperna. Om syftet är att besvara en mer avgränsad fråga kan färre perspektiv räcka.
+Utgå från analysens syfte och tillgängliga resurser när du väljer perspektiv. Om du behöver en heltäckande bild, undersök vilka som kan påverkas inom alla fem stödgrupper. Om analysen ska besvara en mer avgränsad fråga kan färre perspektiv räcka. Fler perspektiv kräver mer arbete med att identifiera och beskriva nyttor och kostnader.
 
-Fler perspektiv innebär mer arbete med att identifiera och beskriva nyttor och kostnader. Anpassa omfattningen efter frågan som ska besvaras, praktiska förutsättningar och den tid och de resurser som finns.
+Du kan samla in effekter för alla valda perspektiv även om du bara värderar vissa nyttor och kostnader i pengar. Övriga identifierade nyttor och kostnader finns kvar i analysen och ligger utanför det beräknade resultatet i pengar.
 
-Du kan också begränsa arbetsinsatsen genom urvalet för pengavärderingen. Alla valda perspektiv kan ingå i effektinsamlingen även om du bara värderar vissa nyttor och kostnader i pengar. Övriga identifierade nyttor och kostnader finns kvar i analysen, men ingår inte i det beräknade resultatet i pengar.
-
-Om ett uteslutet perspektiv ändå förväntas få betydande nyttor eller kostnader, ta upp det i osäkerhetsbedömningen. Beskriv vad avgränsningen innebär för tolkningen av resultatet.
+Det räcker normalt att ange vilka perspektiv som ingår. I en större eller mer komplex analys kan du kort motivera varför ett perspektiv har lämnats utanför, särskilt om det påverkar hur resultatet ska tolkas. Om ett uteslutet perspektiv förväntas få betydande nyttor eller kostnader, ta upp det i osäkerhetsbedömningen och beskriv vad avgränsningen innebär för tolkningen av resultatet.
 
 ## Ange vilka perspektiv som ingår
 
@@ -520,6 +518,10 @@ Ange de organisationer och grupper vars nyttor och kostnader ska ingå. Använd 
 Organisationer som ska redovisas var för sig anges som separata perspektiv, även om de hör till gruppen andra organisationer eller huvudmän. Inera och leverantören får då varsitt perspektiv. Använd samma benämningar i ramarna, på nyttor och kostnader och i Excelmallens fält **Perspektiv**.
 
 En samlande benämning som **kommunerna** kan användas när analysen avser dessa organisationer gemensamt. Ange vilka organisationer som omfattas.
+
+## Exempel på perspektiv, nyttor och kostnader
+
+Tabellen visar exempel på hur du kan gå från stödgrupp till ett konkret perspektiv och ange vems nytta eller kostnad det är.
 
 | Stöd för perspektivvalet | Perspektiv som dokumenteras | Exempel på nytta eller kostnad |
 | --- | --- | --- |
@@ -543,12 +545,6 @@ Skilj detta från olika organisationer som redovisas var för sig. Inera och lev
 Använd perspektivet **samhället** för nyttor och kostnader som är svåra att hänföra till en bestämd organisation eller grupp. Det kan exempelvis handla om miljö- och klimatpåverkan, produktionsbortfall eller effekter som berör många aktörer samtidigt.
 
 Använd inte samhällsperspektivet som en allmän restkategori. Om en nytta eller kostnad tydligt uppstår för en viss organisation, invånare, patienter, brukare eller närstående ska du använda det mer specifika perspektivet.
-
-## Motivera uteslutna perspektiv i komplexa analyser
-
-Det räcker normalt att ange vilka perspektiv som ingår i analysen. Du behöver vanligtvis inte motivera varför andra perspektiv har lämnats utanför.
-
-I en större eller mer komplex analys kan du kort beskriva varför ett perspektiv inte ingår, särskilt om avgränsningen påverkar hur resultatet ska tolkas.
 
 ---
 
@@ -5137,7 +5133,7 @@ När måttet beskrivs i relation till en satsad krona används uttrycket **netto
 | Nettot | Nettonytta eller sammanlagd nettonytta | Nettot är otydligt när skillnaden mellan nyttor och kostnader avses. |
 | Avkastning | Nettonytta per satsad krona eller en saklig förklaring av måttet | Avkastning är företagsekonomiskt språk och kan ge en missvisande bild av nyttor i offentlig verksamhet. |
 
-## Begrepp för nyttor, kostnader, kategorier och perspektiv
+## Begrepp för nyttor, kostnader och kategorier
 
 | Använd inte | Använd i stället | Varför |
 | --- | --- | --- |
@@ -5145,13 +5141,13 @@ När måttet beskrivs i relation till en satsad krona används uttrycket **netto
 | Ekonomiskt som samlingsbegrepp | Finansiell, omfördelning, kvalitet eller miljö; vid behov värderad i pengar | Ekonomiskt är otydligt. Ange kategori eller värderingssätt. |
 | Träffar, exempelvis ”nyttan träffar medarbetarna” | Tillfaller | Tillfaller anger tydligt vem som får nyttan eller bär kostnaden. |
 | Sparar pengar, när en omfördelningsnytta avses | Frigör resurser som kan användas till annat | Omfördelningsnytta innebär inte automatiskt minskade kostnader eller ökat budgetutrymme. |
-| Ekonomiskt perspektiv | Finansiell, omfördelning, kvalitet eller miljö; vid behov värderad i pengar | Uttrycket blandar ihop kategori, perspektiv och värderingssätt. |
-| Fem fasta perspektiv eller fem övergripande perspektiv, när stödgrupperna avses | Fem grupper som stöd för att välja perspektiv | Grupperna stödjer perspektivvalet. De begränsar inte antalet konkreta perspektiv. |
 
-## Begrepp för samband och berörda personer
+## Begrepp för perspektiv, berörda personer och samband
 
 | Använd inte | Använd i stället | Varför |
 | --- | --- | --- |
+| Ekonomiskt perspektiv | Finansiell, omfördelning, kvalitet eller miljö; vid behov värderad i pengar | Uttrycket blandar ihop kategori, perspektiv och värderingssätt. |
+| Fem fasta perspektiv eller fem övergripande perspektiv, när stödgrupperna avses | Fem grupper som stöd för att välja perspektiv | Grupperna stödjer perspektivvalet. De begränsar inte antalet konkreta perspektiv. |
 | Effektkedja i löpande text | Nyttobeskrivning eller, vid behov, kostnadsbeskrivning | Effektkedja avser ett visuellt diagram. I löpande text beskrivs i stället sambanden. |
 | Anhöriga | Närstående | Närstående är mer inkluderande och omfattar även relevanta relationer som inte bygger på formellt släktskap. |
 
