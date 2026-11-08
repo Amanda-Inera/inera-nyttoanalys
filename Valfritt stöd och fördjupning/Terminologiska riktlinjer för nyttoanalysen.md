@@ -26,7 +26,7 @@
 | Nettot | Nettonytta eller sammanlagd nettonytta | Nettot är otydligt när skillnaden mellan nyttor och kostnader avses. |
 | Avkastning | Nettonytta per satsad krona eller en saklig förklaring av måttet | Avkastning är företagsekonomiskt språk och kan ge en missvisande bild av nyttor i offentlig verksamhet. |
 
-## Begrepp för nyttor, kostnader, kategorier och perspektiv
+## Begrepp för nyttor, kostnader och kategorier
 
 | Använd inte | Använd i stället | Varför |
 | --- | --- | --- |
@@ -34,13 +34,13 @@
 | Ekonomiskt som samlingsbegrepp | Finansiell, omfördelning, kvalitet eller miljö; vid behov värderad i pengar | Ekonomiskt är otydligt. Ange kategori eller värderingssätt. |
 | Träffar, exempelvis ”nyttan träffar medarbetarna” | Tillfaller | Tillfaller anger tydligt vem som får nyttan eller bär kostnaden. |
 | Sparar pengar, när en omfördelningsnytta avses | Frigör resurser som kan användas till annat | Omfördelningsnytta innebär inte automatiskt minskade kostnader eller ökat budgetutrymme. |
-| Ekonomiskt perspektiv | Finansiell, omfördelning, kvalitet eller miljö; vid behov värderad i pengar | Uttrycket blandar ihop kategori, perspektiv och värderingssätt. |
-| Fem fasta perspektiv eller fem övergripande perspektiv, när stödgrupperna avses | Fem grupper som stöd för att välja perspektiv | Grupperna stödjer perspektivvalet. De begränsar inte antalet konkreta perspektiv. |
 
-## Begrepp för samband och berörda personer
+## Begrepp för perspektiv, berörda personer och samband
 
 | Använd inte | Använd i stället | Varför |
 | --- | --- | --- |
+| Ekonomiskt perspektiv | Finansiell, omfördelning, kvalitet eller miljö; vid behov värderad i pengar | Uttrycket blandar ihop kategori, perspektiv och värderingssätt. |
+| Fem fasta perspektiv eller fem övergripande perspektiv, när stödgrupperna avses | Fem grupper som stöd för att välja perspektiv | Grupperna stödjer perspektivvalet. De begränsar inte antalet konkreta perspektiv. |
 | Effektkedja i löpande text | Nyttobeskrivning eller, vid behov, kostnadsbeskrivning | Effektkedja avser ett visuellt diagram. I löpande text beskrivs i stället sambanden. |
 | Anhöriga | Närstående | Närstående är mer inkluderande och omfattar även relevanta relationer som inte bygger på formellt släktskap. |
 
