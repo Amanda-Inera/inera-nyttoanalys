@@ -882,6 +882,8 @@ Undersök sambandet för att se vad som leder till vad. Börja med den del av f�
 
 Du kan pröva sambandet i text eller dialog. Det behöver inte ritas som en effektkedja. Om ett led inte går att förklara utifrån underlaget ska du inte fylla i det med en antagen följdeffekt.
 
+Om underlaget visar att effekten är positiv, beskriv nyttan även om storleken är okänd. Om det fortfarande är oklart om effekten är positiv eller negativ, behåll den i underlaget. Anteckna vad som behöver jämföras mellan Alternativ A och B och ta upp frågan igen inför värderingen.
+
 ## Skilj mellan mellanliggande effekter och självständiga nyttor
 
 Beskriv en effekt som en egen nytta när den har ett självständigt värde för en mottagare. När underlaget beskriver en funktion eller ett oklart mellanled, undersök vad det ger mottagaren och vilket värde det innebär. Fråga när värdet inte framgår av underlaget.
@@ -929,6 +931,8 @@ När du identifierar konsekvenskostnader, undersök sambandet för att se vad so
 Jämför den negativa effekten eller risken i Alternativ A och Alternativ B. Undersök om den tillkommer, ökar, minskar eller är oförändrad. Fråga eller ange vad som är oklart när skillnaden inte framgår av underlaget.
 
 Om effekten inte går att koppla till förändringen ska den inte beskrivas som en konsekvens av Alternativ B.
+
+Om underlaget visar att effekten är negativ, beskriv konsekvenskostnaden även om storleken är okänd. Om det fortfarande är oklart om effekten är positiv eller negativ, behåll den i underlaget. Anteckna vad som behöver jämföras mellan Alternativ A och B och ta upp frågan igen inför värderingen.
 
 ## Skilj mellan mellanliggande effekter och självständiga konsekvenskostnader
 
@@ -1237,9 +1241,11 @@ Dokumentera vilket arbetssätt du har valt och om en överslagsberäkning komple
 
 ## Välj bland nyttor och kostnader från steg 4
 
-Gör urvalet innan du börjar värdera i pengar med Excelmallen eller genom en överslagsberäkning. Utgå från de nyttor och kostnader som identifierades och kategoriserades i steg 4.
+Gör urvalet innan du börjar värdera i pengar med Excelmallen eller genom en överslagsberäkning. Utgå från nyttorna och kostnaderna från steg 4.
 
-Lägg inte till nya nyttor eller kostnader under värderingen. Om du upptäcker något som saknas, komplettera först arbetet med nyttor och kostnader.
+Om det efter steg 4 fortfarande är oklart om effekten är positiv eller negativ, avgör du först i steg 5 om den ska beskrivas som en nytta eller en kostnad. Gör bedömningen när du har tillräckliga siffror för att jämföra Alternativ A och B. Komplettera då analysen med nyttan eller kostnaden och ta ställning till om den ska värderas i pengar. Om riktningen förblir oklar, dokumentera vad som saknas och hur det kan påverka tolkningen av resultatet.
+
+Om du upptäcker en effekt som saknas, komplettera först arbetet med nyttor och kostnader.
 
 ## Välj bara kategorier som ska värderas i pengar
 
@@ -1339,6 +1345,8 @@ Använd **Värde nyttor** för en nytta och **Värde kostnader** för en kostnad
 Lägg inte en nytta och en kostnad i samma block och använd inte samma block för flera skilda nyttor eller kostnader.
 
 Använd separata K-block för kostnadsdelar som behöver olika årsprofiler. Lägg exempelvis en installationskostnad som uppstår en gång i ett block och ett årligt abonnemang i ett annat. Anpassa raden **Faktor** i respektive block så att kostnaderna räknas under rätt år.
+
+Om det troliga utfallet ändras från en nytta till en kostnad eller tvärtom, uppdatera posten i analysen och flytta beräkningen till rätt flik. Om rimliga antaganden ger olika riktning, visa det i osäkerhetsbedömningen.
 
 ## Ställ upp det årliga värdet så att beräkningen går att följa
 
@@ -1971,6 +1979,10 @@ Behåll exakta värden i formler och resultattabeller, men avrunda förklarande 
 Utgå från den grupp, geografiska räckvidd, andel och tidsperiod som framgår av analysen eller underlaget. Skilj när det behövs mellan ett totalvärde och ett värde per berörd person, tillfälle eller verksamhet. Använd samma enhet genom hela beräkningen och räkna om värden som avser olika tidsperioder innan de kombineras.
 
 Fråga när en uppgift saknas eller är så oklar att den kan påverka resultatet väsentligt. Kontrollera att samma nytta eller kostnad inte ingår flera gånger genom överlappande faktorer, delsummor eller beräkningar.
+
+Beräkna skillnaden mellan Alternativ A och B för samma utgift hos samma aktör eller för resurser som faktiskt kan ersätta varandra. Visa delarna i beräkningsunderlaget. Om samma administratörer slipper en uppgift på 100 timmar och använder 60 av timmarna till en ny uppgift, frigörs 40 timmar.
+
+Redovisa skilda effekter var för sig. Om förändringen frigör tid för administratörer men kräver mer tid av sjuksköterskor, redovisa administratörernas frigjorda tid som en nytta och sjuksköterskornas ökade tidsåtgång som en kostnad.
 
 ## Använd dagens prisnivå utan inflation
 
