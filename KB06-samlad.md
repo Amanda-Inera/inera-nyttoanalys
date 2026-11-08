@@ -1540,7 +1540,7 @@ Om vissa nyttor och kostnader redan har värderats i pengar genom en överslagsb
 
 Använd en överslagsberäkning när du vill uppskatta nyttor och kostnader i pengar utan Excelmallen. Beräkningen ska ge en följbar bild av storleksordningen, inte ett exakt utfall.
 
-Utgå från tidshorisonten i steg 3. Uttryck alla belopp i dagens prisnivå, räkna inte med inflation och diskontera inte framtida värden. Välj Excelmallen om analysen behöver diskontering eller en mer avancerad kalkyl. Du kan efteråt be assistenten hjälpa dig att sätta poäng på de nyttor och kostnader som inte värderades i pengar.
+Utgå från tidshorisonten i steg 3. Uttryck alla belopp i dagens prisnivå och diskontera framtida värden till analysens startår. Använd 3 procent som kalkylränta om ingen annan ränta är beslutad för analysen. Ange vilken ränta som används. Välj Excelmallen om analysen behöver en mer avancerad kalkyl. Du kan efteråt be assistenten hjälpa dig att sätta poäng på de nyttor och kostnader som inte värderades i pengar.
 
 ## Beräkna en nytta eller kostnad i taget
 
@@ -1572,11 +1572,13 @@ Använd en faktor för varje år för att visa när nyttan eller kostnaden uppst
 
 Anpassa faktorerna efter exempelvis successivt införande, upptrappning, nedtrappning eller en engångskostnad. Använd kalenderår om startåret är känt. Använd annars år 1, år 2 och så vidare.
 
+Tabellen visar årsvärden före diskontering. Diskontera varje års belopp enligt beräkningsprinciperna och använd den diskonterade summan i sammanställningen.
+
 ## Sammanställ alla värderade nyttor och kostnader
 
-Sammanställ varje nytta och kostnad efter den relevanta tidshorisonten och summera nyttorna och kostnaderna separat.
+Sammanställ varje nyttas och kostnads diskonterade värde för tidshorisonten. Summera nyttorna och kostnaderna separat.
 
-| Nytta eller kostnad | Typ | Kategori | Sammanlagt värde efter X år |
+| Nytta eller kostnad | Typ | Kategori | Diskonterat värde efter X år |
 | --- | --- | --- | --- |
 | [namn] | Nytta | [finansiell eller omfördelning] | [belopp] |
 | [namn] | Kostnad | [finansiell eller omfördelning] | [belopp] |
@@ -1587,7 +1589,7 @@ Kontrollera att samma nytta eller kostnad inte har räknats flera gånger.
 
 ## Redovisa nettonytta och övriga resultat
 
-Beräkna **Sammanlagd nettonytta** som sammanlagda nyttor minus sammanlagda kostnader. Beräkna **Nettonytta per satsad krona** som nettonyttan delad med sammanlagda kostnader. Om kostnaderna är noll kan måttet inte beräknas. Ange också det första året då ackumulerade nyttor överstiger ackumulerade kostnader, eller **aldrig** om det inte sker under tidshorisonten.
+Beräkna nettonyttan som nyttor minus kostnader. Dela med kostnaderna för att få nettonytta per satsad krona. Vid noll kostnad saknas kvoten. Ange första året då ackumulerade nyttor överstiger kostnaderna, eller **aldrig**.
 
 | Resultatmått | Resultat |
 | --- | --- |
@@ -1599,7 +1601,7 @@ Beräkna **Sammanlagd nettonytta** som sammanlagda nyttor minus sammanlagda kost
 | Finansiell kostnad, andel av sammanlagda kostnader efter X år | [andel] |
 | Omfördelningskostnad, andel av sammanlagda kostnader efter X år | [andel] |
 
-Ange att resultaten är odiskonterade och uttryckta i dagens prisnivå. Beskriv dem som överslagsberäkningar och lägg inte till slutsatser som inte följer av beräkningarna.
+Ange att överslaget är diskonterat, räntan som användes och att beloppen är i dagens prisnivå. Dra bara slutsatser som följer av beräkningarna.
 
 ---
 
@@ -1994,9 +1996,9 @@ Räkna om äldre belopp när förändrade prisnivåer annars gör dem svåra att
 
 ## Skilj diskontering från inflation
 
-Använd diskontering för att väga framtida nyttor och kostnader till ett värde i dag. Excelmallen sköter diskonteringen automatiskt och visar vilken diskonteringsränta som används. Ändra räntan bara när analysen kräver en annan beslutad ränta. Lägg inte till inflation därför att kalkylen diskonteras.
+Diskontera framtida belopp i både Excel och överslag. Använd analysens startår som basår och 3 procent som kalkylränta om ingen annan ränta är beslutad för analysen. Belopp under startåret behåller sitt värde. För ett senare år delar du årets belopp med ett plus kalkylräntan, upphöjt till antalet år efter startåret.
 
-Redovisa en överslagsberäkning tillsammans med assistenten utan diskontering och använd Excelmallen när en fullständig diskonterad beräkning behövs.
+Använd dagens prisnivå i beräkningen. Diskontering tar hänsyn till när nyttor och kostnader uppstår. Räkna inte upp beloppen med inflation.
 
 ---
 
