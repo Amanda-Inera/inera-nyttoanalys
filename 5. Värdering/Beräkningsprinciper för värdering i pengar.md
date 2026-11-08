@@ -32,6 +32,6 @@ Räkna om äldre belopp när förändrade prisnivåer annars gör dem svåra att
 
 ## Skilj diskontering från inflation
 
-Använd diskontering för att väga framtida nyttor och kostnader till ett värde i dag. Excelmallen sköter diskonteringen automatiskt och visar vilken diskonteringsränta som används. Ändra räntan bara när analysen kräver en annan beslutad ränta. Lägg inte till inflation därför att kalkylen diskonteras.
+Diskontera framtida belopp i både Excel och överslag. Använd analysens startår som basår och 3 procent som kalkylränta om ingen annan ränta är beslutad för analysen. Belopp under startåret behåller sitt värde. För ett senare år delar du årets belopp med ett plus kalkylräntan, upphöjt till antalet år efter startåret.
 
-Redovisa en överslagsberäkning tillsammans med assistenten utan diskontering och använd Excelmallen när en fullständig diskonterad beräkning behövs.
+Använd dagens prisnivå i beräkningen. Diskontering tar hänsyn till när nyttor och kostnader uppstår. Räkna inte upp beloppen med inflation.
