@@ -18,6 +18,10 @@ Utgå från den grupp, geografiska räckvidd, andel och tidsperiod som framgår 
 
 Fråga när en uppgift saknas eller är så oklar att den kan påverka resultatet väsentligt. Kontrollera att samma nytta eller kostnad inte ingår flera gånger genom överlappande faktorer, delsummor eller beräkningar.
 
+Beräkna skillnaden mellan Alternativ A och B för samma utgift hos samma aktör eller för resurser som faktiskt kan ersätta varandra. Visa delarna i beräkningsunderlaget. Om samma administratörer slipper en uppgift på 100 timmar och använder 60 av timmarna till en ny uppgift, frigörs 40 timmar.
+
+Redovisa skilda effekter var för sig. Om förändringen frigör tid för administratörer men kräver mer tid av sjuksköterskor, redovisa administratörernas frigjorda tid som en nytta och sjuksköterskornas ökade tidsåtgång som en kostnad.
+
 ## Använd dagens prisnivå utan inflation
 
 Uttryck alla nyttor och kostnader i dagens prisnivå genom hela analysperioden. Räkna inte upp framtida värden med förväntad inflation. Skilj förändringar i verksamhetens omfattning, användning eller kostnadsstruktur från allmän inflation. Hantera sådana verkliga förändringar i beräkningen eller årsprofilen.
