@@ -1218,7 +1218,7 @@ Du kan värdera i Excelmallen, uppskatta storleken med poäng, göra en översla
 
 ## Välj mellan fyra arbetssätt
 
-- **Använd Excelmallen.** Värdera utvalda finansiella nyttor och kostnader samt omfördelningsnyttor och omfördelningskostnader i pengar. För in övriga nyttor och kostnader med uppskattad storlek. Använd Excelmallen när beräkningar, källor och antaganden behöver kunna granskas, ändras eller delas.
+- **Använd Excelmallen.** Värdera utvalda finansiella nyttor och kostnader samt omfördelningsnyttor och omfördelningskostnader i pengar. För in övriga nyttor och kostnader med uppskattad storlek. Använd Excelmallen när beräkningar, källor och antaganden behöver kunna granskas, ändras eller delas. Det tar ofta mer tid att bygga beräkningarna i Excelmallen. När modellen är på plats kan du pröva olika antaganden och se hur resultatet påverkas. Du kan också uppdatera beräkningarna när du får bättre underlag.
 - **Uppskatta storleken med poäng.** Bedöm nyttornas och kostnadernas storlek med skalan Ingen, Liten, Måttlig eller Stor tillsammans med assistenten i chatten.
 - **Gör en överslagsberäkning i pengar.** Gör en förenklad beräkning tillsammans med assistenten för att få en första bild av storleksordningen. Du kan därefter be assistenten hjälpa dig att sätta poäng på de nyttor och kostnader som inte värderades i pengar.
 - **Avstå från värdering eller storleksbedömning.** Avstå när underlaget är för svagt, när en bedömning inte behövs eller när den riskerar att ge en missvisande bild.
